@@ -16,7 +16,7 @@ def plinky(shorturl=None):
 @app.route("/discover", methods=['GET'])
 def discover():
   app.logger.error("this is an error")
-  app.logger.warning("this is a warning§")
+  app.logger.warning("this is a warning")
   app.logger.info("this is info")
   app.logger.debug("this debug")
   return render_template('discover.html')

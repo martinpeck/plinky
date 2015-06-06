@@ -9,7 +9,7 @@ app = Flask(__name__)
 def plinky(shorturl=None):
   if shorturl:
     app.logger.info('shorturl: %s' % shorturl)
-    return "hello"
+    return "shorturl: %s" % shorturl
   else:
     return "the shorturl was missing"
 

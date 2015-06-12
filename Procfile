@@ -1,1 +1,1 @@
-web: gunicorn plinky:app --log-file -
+web: gunicorn --log-file=- plinky:app

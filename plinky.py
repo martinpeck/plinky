@@ -6,19 +6,19 @@ import yaml
 app = Flask(__name__)
 
 def load_shorturls():
-  stream = open('./shorturls/shorturls.yaml')
-  return yaml.load(stream)
+  with open('./shorturls/shorturls.yaml') as stream:
+    doc = yaml.load(stream)
+  return doc
 
 def lookup_shorturl(shorturl):
+  shortcuts = load_shorturls()
+  return shortcuts.get(shorturl, shortcuts['default'])
 
 @app.route("/", methods=['GET'])
 @app.route("/<path:shorturl>", methods=['GET'])
 def plinky(shorturl=None):
-  if shorturl:
-    app.logger.info('shorturl: %s' % shorturl)
-    return "shorturl: %s" % shorturl
-  else:
-    return "the shorturl was missing"
+  app.logger.info('shorturl: %s' % shorturl)
+  return lookup_shorturl(shorturl)
 
 @app.route("/discover", methods=['GET'])
 def discover():
@@ -40,4 +40,5 @@ def page_not_found(error):
   return render_template('404.html'), 404
 
 if __name__ == "__main__":
+    app.debug = True
     app.run()

@@ -12,7 +12,7 @@ def load_shorturls():
 
 def lookup_shorturl(shorturl):
   shortcuts = load_shorturls()
-  return shortcuts.get(shorturl, shortcuts['default'])
+  return redirect(shortcuts.get(shorturl, shortcuts['default']), 302)
 
 @app.route("/", methods=['GET'])
 @app.route("/<path:shorturl>", methods=['GET'])

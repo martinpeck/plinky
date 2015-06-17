@@ -1,6 +1,4 @@
-default: https://www.codeclub.org.uk
-ccuk: https://www.codeclub.org.uk
-projects: http://projects.codeclub.org.uk
-scratch1: http://projects.codeclub.org.uk/en-GB/01_scratch_01/index.html
-scratch2: http://projects.codeclub.org.uk/en-GB/02_scratch_02/index.html
-ccpro: https://codeclubpro.org
+default: https://github.com/martinpeck/plinky
+me:https://github.com/martinpeck
+issues:https://github.com/issues/assigned
+stars:https://github.com/stars

@@ -2,6 +2,7 @@ from flask import Flask
 from flask import render_template, url_for, redirect
 import logging
 import yaml
+import keen
 
 app = Flask(__name__)
 
@@ -17,7 +18,7 @@ def lookup_shorturl(shorturl):
 @app.route("/", methods=['GET'])
 @app.route("/<path:shorturl>", methods=['GET'])
 def plinky(shorturl=None):
-  app.logger.info('shorturl: %s' % shorturl)
+  keen.add_event("redirect", {"shorturl": shorturl})
   return lookup_shorturl(shorturl)
 
 @app.route("/discover", methods=['GET'])
@@ -27,13 +28,6 @@ def discover():
 @app.route("/stats", methods=['GET'])
 def stats():
   return  render_template('stats.html')
-
-@app.route("/test", methods=['GET'])
-def test():
-  app.logger.error("this is an error")
-  app.logger.warning("this is a warning")
-  app.logger.info("this is info")
-  app.logger.debug("this debug")
 
 @app.errorhandler(404)
 def page_not_found(error):

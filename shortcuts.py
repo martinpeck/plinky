@@ -4,9 +4,10 @@ import logging
 class Shortcuts():
 
   def __init__(self, filename):
+    logging.warning("Loading shortcuts file '%s'" % filename)
     with open(filename) as stream:
-      logging.warning("Loading shortcuts file '%s'" % filename)
-      self.shortcuts = {x.lower(): y for x, y in yaml.load(stream).items()}
+      shortcuts = yaml.load(stream)
+    self.shortcuts = {shorturl.lower(): url for shorturl, url in shortcuts.items()}
 
   def lookup_shorturl(self, shorturl):
-    return self.shortcuts.get(shorturl, self.shortcuts['default'])
+    return self.shortcuts.get(shorturl.lower(), self.shortcuts['default'])

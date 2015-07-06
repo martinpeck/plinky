@@ -67,7 +67,7 @@ cc-docs: https://github.com/CodeClub/curriculum_documentation/blob/master/README
 1IpKovZ: https://scratch.mit.edu/projects/38160182/#editor
 1IpKjrW: https://github.com/CodeClubRik
 scratch-snowball: http://projects.codeclub.org.uk/en-GB/03_scratch_bonus/04/Snowball Fight.html
-sond-music: http://projects.codeclub.org.uk/en-GB/01_scratch_01/01/Rock%20Band.html
+
 pyth-loop: http://projects.codeclub.org.uk/en-GB/09_python/04/Turtle Power.html
 py-quiz: http://projects.codeclub.org.uk/en-GB/09_python/03/Quiz.html
 pyth-var: http://projects.codeclub.org.uk/en-GB/09_python/02/The Year 2025.html
@@ -79,10 +79,6 @@ g-gr: https://www.codeclub.org.uk/communities-and-events/code-club-google-groups
 1xpbVa2: https://github.com/CodeClub/scratch-curriculum/blob/master/CONTRIBUTING.md
 beta-fb: https://docs.google.com/forms/d/1eMCfpYe3v7eYu5M8rSqLKlmq7cczLCLHx66csgyUyVU/viewform?usp=send_form
 get-py: https://www.python.org/download/releases/3.2/#download
-scr-guide: https://scratch.mit.edu/scratchr2/static/__1371843055__/pdfs/help/ScratchGetStarted_beta_draft_Jan2013.pdf
-scr-cards: https://scratch.mit.edu/help/cards/
-scr-off: https://scratch.mit.edu/scratch2download/
-scratch-new: https://scratch.mit.edu/projects/editor/
 1pjbSq0: http://projects.codeclub.org.uk/en-GB/09_python/
 py-if: http://projects.codeclub.org.uk/en-GB/09_python/03/Quiz.html
 py-loop: http://projects.codeclub.org.uk/en-GB/09_python/04/Turtle Power.html
@@ -99,18 +95,27 @@ diy-kit: https://www.techwillsaveus.com/shop/diy-kits/diy-gamer-kit-arduino/
 
 # Scratch project links
 
+# -- Rock Band
 rock-band: http://projects.codeclub.org.uk/en-GB/01_scratch_01/01/Rock Band.html
 rockband: http://projects.codeclub.org.uk/en-GB/01_scratch_01/01/Rock Band.html
-
+sond-music: http://projects.codeclub.org.uk/en-GB/01_scratch_01/01/Rock%20Band.html
+sound-music: http://projects.codeclub.org.uk/en-GB/01_scratch_01/01/Rock%20Band.html
+# -- Lost in Space
 chat-bot: http://projects.codeclub.org.uk/en-GB/01_scratch_01/04/ChatBot.html
 balloons-game: http://projects.codeclub.org.uk/en-GB/03_scratch_bonus/01/Balloons.html
 space-animation: http://projects.codeclub.org.uk/en-GB/01_scratch_01/02/Lost in Space.html
+# -- Other
+scr-guide: https://scratch.mit.edu/scratchr2/static/__1371843055__/pdfs/help/ScratchGetStarted_beta_draft_Jan2013.pdf
+scr-cards: https://scratch.mit.edu/help/cards/
+scrath-cards: https://scratch.mit.edu/help/cards/
+scr-off: https://scratch.mit.edu/scratch2download/
+scratch-offline: https://scratch.mit.edu/scratch2download/
+scr-on: https://scratch.mit.edu
+scratch-online: https://scratch.mit.edu
+scratch-new: https://scratch.mit.edu/projects/editor/
 
 # HTML & CSS project links
 
-# -- Templates
-trinket-template: https://trinket.io/html/ef4c882ae6
-trinket-blank: https://trinket.io/html/abfef6a560
 # -- Happy Birthday
 birthday: http://projects.codeclub.org.uk/en-GB/05_html_01/01/Happy%20Birthday.html
 happy-birthday: http://projects.codeclub.org.uk/en-GB/05_html_01/01/Happy%20Birthday.html
@@ -128,7 +133,9 @@ trinket-story: https://trinket.io/html/8083cfebb3
 wanted: http://projects.codeclub.org.uk/en-GB/05_html_01/03/Wanted.html
 web-wanted: https://trinket.io/html/58318bee1f
 trinket-wanted: https://trinket.io/html/58318bee1f
-# -- other
+# -- Other
+trinket-template: https://trinket.io/html/ef4c882ae6
+trinket-blank: https://trinket.io/html/abfef6a560
 web-jokes: https://trinket.io/html/526c56ff96
 web-robot: https://trinket.io/html/b29b50e571
 web-faces: https://trinket.io/html/00736c0e18

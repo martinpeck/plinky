@@ -1,4 +1,7 @@
+# default, if other shorturls can't be found
 default: https://github.com/martinpeck/plinky
+
+# some github short urls for testing
 me: https://github.com/martinpeck
 issues: https://github.com/issues/assigned
 stars: https://github.com/stars

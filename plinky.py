@@ -13,7 +13,7 @@ shortcuts = Shortcuts(shortcut_file)
 
 @app.route("/", methods=['GET'])
 @app.route("/<path:shorturl>", methods=['GET'])
-def redirect_to_short_url(shorturl=None):
+def redirect_to_short_url(shorturl=""):
 
   analytics.track('plinky-server', 'redirect_to_short_url', {
     'shorturl': shorturl

@@ -97,6 +97,9 @@ chat-bot: http://projects.codeclub.org.uk/en-GB/01_scratch_01/04/ChatBot.html
 balloons-game: http://projects.codeclub.org.uk/en-GB/03_scratch_bonus/01/Balloons.html
 space-animation: http://projects.codeclub.org.uk/en-GB/01_scratch_01/02/Lost in Space.html
 # -- Other
+chatbot: http://projects.codeclub.org.uk/en-GB/01_scratch_01/04/ChatBot.html
+chat-bot: http://projects.codeclub.org.uk/en-GB/01_scratch_01/04/ChatBot.html
+
 scr-guide: https://scratch.mit.edu/scratchr2/static/__1371843055__/pdfs/help/ScratchGetStarted_beta_draft_Jan2013.pdf
 scr-cards: https://scratch.mit.edu/help/cards/
 scrath-cards: https://scratch.mit.edu/help/cards/
@@ -143,6 +146,8 @@ web-story: https://trinket.io/html/8083cfebb3
 web-comic: https://trinket.io/html/8083cfebb3
 
 # Python project links
+
+ascii: http://projects.codeclub.org.uk/en-GB/09_python/01/ASCII%20Art.html
 
 # Partner project links
 

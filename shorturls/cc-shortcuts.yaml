@@ -92,7 +92,7 @@ python-intro: http://projects.codeclub.org.uk/en-GB/09_python/Introduction%20to%
 python-offline: https://www.python.org/download/releases/3.2/#download
 
 # Scratch project links
-translate-scratch: http://scratchblocks.codeclub.org.uk/translator/#script=when%20flag%20clicked%0Aforever%0A%20%20move%20(2)%20steps%0Aend&from=en&to=ru
+scratch-translate: http://scratchblocks.codeclub.org.uk/translator/#script=when%20flag%20clicked%0Aforever%0A%20%20move%20(2)%20steps%0Aend&from=en&to=ru
 
 # -- Rock Band
 rock-band: http://projects.codeclub.org.uk/en-GB/01_scratch_01/01/Rock Band.html

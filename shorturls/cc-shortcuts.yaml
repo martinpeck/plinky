@@ -1,7 +1,6 @@
 default: https://codeclub.org.uk
 
 email-sig: https://s3.amazonaws.com/codeclub-assets/public/code_club_email.png
-lang-codes: http://www.lingoes.net/en/translator/langcode.htm
 
 cc-contribute: https://github.com/CodeClub/curriculum_documentation/blob/master/contributing.md
 contribute: https://github.com/CodeClub/curriculum_documentation/blob/master/contributing.md

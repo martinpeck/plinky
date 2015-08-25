@@ -19,7 +19,7 @@ def redirect_to_short_url(shorturl=""):
     'shorturl': shorturl
   })
 
-  return redirect(shortcuts.lookup_shorturl(shorturl), 302)
+  return redirect(shortcuts.lookup_shorturl(shorturl), 301)
 
 @app.route("/discover", methods=['GET'])
 def discover():

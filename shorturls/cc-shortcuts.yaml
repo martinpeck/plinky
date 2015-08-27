@@ -16,7 +16,6 @@ scratch-youtube: https://www.youtube.com/watch?v=-SjuiawRMU4
 test-link2: https://s3-eu-west-1.amazonaws.com/codeclub-html-images/build-a-robot
 1DnaUGq: https://s3-eu-west-1.amazonaws.com/codeclub-html-images/build-a-robot/
 py-compliment: http://projects.codeclub.org.uk/en-GB/09_python/06/Compliment Generator.html
-code-quiz: https://www.surveymonkey.com/s/CCQuizPilot
 leeds-comp: https://docs.google.com/presentation/d/1HmVmJCjPss7nvC3EnpGhSWju97V8CRBYdnpQp16cWVI/edit?usp=sharing
 scratch-dodgeball: https://scratch.mit.edu/projects/39740618/#editor
 cas-prog: http://community.computingatschool.org.uk/resources/2324
@@ -132,9 +131,10 @@ paintbox-resources: https://scratch.mit.edu/projects/63473670/#editor
 birthday: http://projects.codeclub.org.uk/en-GB/05_html_01/01/Happy%20Birthday.html
 happy-birthday: http://projects.codeclub.org.uk/en-GB/05_html_01/01/Happy%20Birthday.html
 web-intro: https://trinket.io/html/850a678202
-web-intro-pl: https://trinket.io/html/4f957e888f
+html-wstep: https://trinket.io/html/4f957e888f
 trinket-intro: https://trinket.io/html/850a678202
 web-card: https://trinket.io/html/90506676c9
+kartka-urodzinowa: https://trinket.io/html/0220902ffd
 trinket-card: https://trinket.io/html/90506676c9
 # -- Tell a Story
 story: http://projects.codeclub.org.uk/en-GB/05_html_01/02/Tell%20a%20Story.html
@@ -166,5 +166,6 @@ ascii: http://projects.codeclub.org.uk/en-GB/09_python/01/ASCII%20Art.html
 codekingdoms: http://projects.codeclub.org.uk/en-GB/13_ck_01/index.html
 mb-test: https://drive.google.com/a/codeclub.org.uk/folderview?id=0B4zTzKLdF55gfng0WVJJOXp5R0QyZWxtUWZLTVBMeXU0Skdta1NicGNjclVJTGJIOEk0MFk&usp=sharing
 
-# project.codeclub.org.uk redirects
-en-GB/01_scratch_01/02/Lost in Space.html: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space/
+#Impact Evaluation
+ct-quiz: http://codeclub.beverwedstrijd.nl/
+code-quiz: https://www.surveymonkey.com/s/CCQuizPilot

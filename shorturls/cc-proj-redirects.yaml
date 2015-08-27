@@ -1,3 +1,125 @@
 default: https://www.codeclubprojects.org
 
-en-GB/01_scratch_01/02/Lost in Space.html: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space/
+# Languages
+en-GB/index.html: https://www.codeclubprojects.org/en-GB/
+en-GB/: https://www.codeclubprojects.org/en-GB/
+
+# Courses
+en-GB/01_scratch_01/index.html: https://www.codeclubprojects.org/en-GB/scratch/
+en-GB/02_scratch_02/index.html: https://www.codeclubprojects.org/en-GB/scratch/#scratch-2
+en-GB/03_scratch_bonus/index.html: https://www.codeclubprojects.org/en-GB/scratch/#additional-projects
+en-GB/04_scratch_community/index.html: https://www.codeclubprojects.org/en-GB/scratch/#community-contributed-projects
+en-GB/05_html_01/index.html: https://www.codeclubprojects.org/en-GB/webdev/
+en-GB/09_python/index.html: https://www.codeclubprojects.org/en-GB/python/
+en-GB/10_python/index.html: https://www.codeclubprojects.org/en-GB/python/#python-2
+en-GB/13_ck_01/index.html: https://www.codeclubprojects.org/en-GB/code-kingdoms/
+en-GB/14_twsu_01/index.html: https://www.codeclubprojects.org/en-GB/technology-will-save-us/
+en-GB/15_scratch_archive/index.html: https://www.codeclubprojects.org/en-GB/archived/
+en-GB/16_html_archive/index.html: https://www.codeclubprojects.org/en-GB/archived/
+en-GB/17_python_archive/index.html: https://www.codeclubprojects.org/en-GB/archived/
+en-GB/01_scratch_01/: https://www.codeclubprojects.org/en-GB/scratch/
+en-GB/02_scratch_02/: https://www.codeclubprojects.org/en-GB/scratch/#scratch-2
+en-GB/03_scratch_bonus/: https://www.codeclubprojects.org/en-GB/scratch/#additional-projects
+en-GB/04_scratch_community/: https://www.codeclubprojects.org/en-GB/scratch/#community-contributed-projects
+en-GB/05_html_01/: https://www.codeclubprojects.org/en-GB/webdev/
+en-GB/09_python/: https://www.codeclubprojects.org/en-GB/python/
+en-GB/10_python/: https://www.codeclubprojects.org/en-GB/python/#python-2
+en-GB/13_ck_01/: https://www.codeclubprojects.org/en-GB/code-kingdoms/
+en-GB/14_twsu_01/: https://www.codeclubprojects.org/en-GB/technology-will-save-us/
+en-GB/15_scratch_archive/: https://www.codeclubprojects.org/en-GB/archived/
+en-GB/16_html_archive/: https://www.codeclubprojects.org/en-GB/archived/
+en-GB/17_python_archive/: https://www.codeclubprojects.org/en-GB/archived/
+
+# Projects - Scratch - Scratch 1 - Student Projects
+en-GB/01_scratch_01/01/Rock%20Band.html: https://www.codeclubprojects.org/en-GB/scratch/rock-band/
+en-GB/01_scratch_01/02/Lost%20in%20Space.html: https://www.codeclubprojects.org/en-GB/scratch/lost-in-space/
+en-GB/01_scratch_01/03/Ghostbusters.html: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters/
+en-GB/01_scratch_01/04/ChatBot.html: https://www.codeclubprojects.org/en-GB/scratch/chatbot/
+en-GB/01_scratch_01/05/Paint%20Box.html: https://www.codeclubprojects.org/en-GB/scratch/paint-box/
+en-GB/01_scratch_01/06/Boat%20Race.html: https://www.codeclubprojects.org/en-GB/scratch/boat-race/
+
+# Projects - Scratch - Scratch 1 - Student Projects
+en-GB/02_scratch_02/01/Memory.html: https://www.codeclubprojects.org/en-GB/scratch/memory/
+en-GB/02_scratch_02/02/Dodgeball.html: https://www.codeclubprojects.org/en-GB/scratch/dodgeball/
+en-GB/02_scratch_02/03/Brain%20Game.html: https://www.codeclubprojects.org/en-GB/scratch/brain-game/
+en-GB/02_scratch_02/04/Catch%20the%20Dots.html: https://www.codeclubprojects.org/en-GB/scratch/catch-the-dots/
+en-GB/02_scratch_02/05/Clone%20Wars.html: https://www.codeclubprojects.org/en-GB/scratch/clone-wars/
+en-GB/02_scratch_02/06/Create%20Your%20Own%20World.html: https://www.codeclubprojects.org/en-GB/scratch/create-your-own-world/
+
+# Projects - Scratch - Additional - Student Projects
+en-GB/03_scratch_bonus/01/Balloons.html: https://www.codeclubprojects.org/en-GB/scratch/balloons/
+en-GB/03_scratch_bonus/02/Space%20Junk.html: https://www.codeclubprojects.org/en-GB/scratch/space-junk/
+en-GB/03_scratch_bonus/03/Flappy%20Parrot.html: https://www.codeclubprojects.org/en-GB/scratch/flappy-parrot/
+en-GB/03_scratch_bonus/04/Snowball%20Fight.html: https://www.codeclubprojects.org/en-GB/scratch/snowball-fight/
+en-GB/03_scratch_bonus/05/Christmas%20Capers.html:
+
+# Projects - Scratch - Community - Student Projects
+en-GB/04_scratch_community/01/Table%20Football.html: https://www.codeclubprojects.org/en-GB/scratch/table-football/
+en-GB/04_scratch_community/02/Toby.html: https://www.codeclubprojects.org/en-GB/scratch/toby/
+
+# Projects - Web - Web 1 - Student Projects
+en-GB/05_html_01/01/Happy%20Birthday.html: https://www.codeclubprojects.org/en-GB/webdev/happy-birthday/
+en-GB/05_html_01/02/Tell%20a%20Story.html: https://www.codeclubprojects.org/en-GB/webdev/tell-a-story/
+en-GB/05_html_01/03/Wanted.html: https://www.codeclubprojects.org/en-GB/webdev/wanted/
+
+# Projects - Python - Python 1 - Student Projects
+en-GB/09_python/01/ASCII%20Art.html: https://www.codeclubprojects.org/en-GB/python/ascii-art/
+en-GB/09_python/02/The%20Year%202025.html: https://www.codeclubprojects.org/en-GB/python/the-year-2025/
+en-GB/09_python/03/Quiz.html: https://www.codeclubprojects.org/en-GB/python/quiz/
+en-GB/09_python/04/Turtle%20Power.html: https://www.codeclubprojects.org/en-GB/python/turtle-power/
+en-GB/09_python/05/Gameshow.html: https://www.codeclubprojects.org/en-GB/python/gameshow/
+en-GB/09_python/06/Compliment%20Generator.html: https://www.codeclubprojects.org/en-GB/python/compliment-generator/
+
+# Projects - Python - Python 2 - Student Projects
+en-GB/10_python/01/Secret%20Messages.html: https://www.codeclubprojects.org/en-GB/python/secret-messages/
+en-GB/10_python/02/Teaching%20Turtles.html: https://www.codeclubprojects.org/en-GB/python/teaching-turtles/
+en-GB/10_python/03/Text-speak%20Converter.html: https://www.codeclubprojects.org/en-GB/python/text-speak-converter/
+en-GB/10_python/04/Pokedex.html: https://www.codeclubprojects.org/en-GB/python/pokedex/
+en-GB/10_python/05/RPG.html: https://www.codeclubprojects.org/en-GB/python/rpg/
+en-GB/10_python/06/Minecraft2D.html: https://www.codeclubprojects.org/en-GB/python/minecraft2d/
+
+# Projects - Partners - Code Kingdoms - Student Projects
+en-GB/13_ck_01/01/Puzzle%20Pack%201.html: https://www.codeclubprojects.org/en-GB/code-kingdoms/puzzle-pack-1/
+en-GB/13_ck_01/02/Puzzle%20Pack%202.html: https://www.codeclubprojects.org/en-GB/code-kingdoms/puzzle-pack-2/
+en-GB/13_ck_01/03/Puzzle%20Pack%203.html: https://www.codeclubprojects.org/en-GB/code-kingdoms/puzzle-pack-3/
+
+# Projects - Partners - TWSU - Student Projects
+en-GB/14_twsu_01/01/DIY%201.html: https://www.codeclubprojects.org/en-GB/technology-will-save-us/twsu-lesson-1/
+en-GB/14_twsu_01/02/DIY%202.html: https://www.codeclubprojects.org/en-GB/technology-will-save-us/twsu-lesson-2/
+en-GB/14_twsu_01/03/DIY%203.html: https://www.codeclubprojects.org/en-GB/technology-will-save-us/twsu-lesson-3/
+en-GB/14_twsu_01/04/DIY%204.html: https://www.codeclubprojects.org/en-GB/technology-will-save-us/twsu-lesson-4/
+en-GB/14_twsu_01/05/DIY%205.html: https://www.codeclubprojects.org/en-GB/technology-will-save-us/twsu-lesson-5/
+en-GB/14_twsu_01/06/DIY%206.html: https://www.codeclubprojects.org/en-GB/technology-will-save-us/twsu-lesson-6/
+
+# Projects - Archived - Scratch - Student Projects
+en-GB/15_scratch_archive/01/Create%20Your%20Own%20Game.html: https://www.codeclubprojects.org/en-GB/archived/create-your-own-game/
+en-GB/15_scratch_archive/02/Desert%20Race.html: https://www.codeclubprojects.org/en-GB/archived/desert-race/
+en-GB/15_scratch_archive/03/Felix%20and%20Herbert.html: https://www.codeclubprojects.org/en-GB/archived/felix-and-herbert/
+en-GB/15_scratch_archive/04/Fireworks.html: https://www.codeclubprojects.org/en-GB/archived/fireworks/
+en-GB/15_scratch_archive/05/Fish%20Chomp.html: https://www.codeclubprojects.org/en-GB/archived/fish-chomp/
+en-GB/15_scratch_archive/06/Frantic%20Felix.html: https://www.codeclubprojects.org/en-GB/archived/frantic-felix/
+en-GB/15_scratch_archive/07/Fruit%20Machine.html: https://www.codeclubprojects.org/en-GB/archived/fruit-machine/
+en-GB/15_scratch_archive/08/Ghostbusters.html: https://www.codeclubprojects.org/en-GB/archived/ghostbusters/
+en-GB/15_scratch_archive/09/Make%20a%20Monster.html: https://www.codeclubprojects.org/en-GB/archived/make-a-monster/
+en-GB/15_scratch_archive/10/Sound%20Machine.html: https://www.codeclubprojects.org/en-GB/archived/sound-machine/
+en-GB/15_scratch_archive/11/What's%20That.html: https://www.codeclubprojects.org/en-GB/archived/whats-that/
+
+# Projects - Archived - Web - Student Projects
+en-GB/16_html_archive/01/01%20The%20Web.html: https://www.codeclubprojects.org/en-GB/archived/the-web/
+en-GB/16_html_archive/02/02%20Building%20Simple%20Webpages.html: https://www.codeclubprojects.org/en-GB/archived/building-simple-webpages/
+en-GB/16_html_archive/03/03%20Missing%20Cat%20Website.html: https://www.codeclubprojects.org/en-GB/archived/missing-cat-website/
+en-GB/16_html_archive/04/04%20Styling%20Webpages.html: https://www.codeclubprojects.org/en-GB/archived/styling-webpages/
+en-GB/16_html_archive/05/05%20Styling%20and%20Formatting%20Text.html: https://www.codeclubprojects.org/en-GB/archived/styling-and-formatting-text/
+en-GB/16_html_archive/06/06%20Hide%20the%20Ninjas.html: https://www.codeclubprojects.org/en-GB/archived/hide-the-ninjas/
+en-GB/16_html_archive/07/07%20Design%20and%20Build%20Your%20Own%20Website.html: https://www.codeclubprojects.org/en-GB/archived/design-and-build-your-own-website/
+en-GB/16_html_archive/08/08%20Audio%20and%20Video%20on%20Webpages.html: https://www.codeclubprojects.org/en-GB/archived/audio-and-video-on-webpages/
+en-GB/16_html_archive/09/recipe.html: https://www.codeclubprojects.org/en-GB/archived/recipe/
+en-GB/16_html_archive/10/comic.html: https://www.codeclubprojects.org/en-GB/archived/comic/
+en-GB/16_html_archive/11/cups.html: https://www.codeclubprojects.org/en-GB/archived/cups/
+
+# Projects - Archived - Python - Student Projects
+en-GB/17_python_archive/01/Hangman.html: https://www.codeclubprojects.org/en-GB/archived/hangman/
+en-GB/17_python_archive/02/Noughts%20and%20Crosses.html: https://www.codeclubprojects.org/en-GB/archived/noughts-and-crosses/
+en-GB/17_python_archive/03/Playing%20Against%20the%20Computer.html: https://www.codeclubprojects.org/en-GB/archived/playing-against-the-computer/
+en-GB/17_python_archive/04/Turtles%20All%20the%20Way%20Down.html: https://www.codeclubprojects.org/en-GB/archived/turtles-all-the-way-down/
+

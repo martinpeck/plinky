@@ -97,8 +97,8 @@ python-offline: https://www.python.org/download/releases/3.2/#download
 scratch-translate: http://scratchblocks.codeclub.org.uk/translator/#script=when%20flag%20clicked%0Aforever%0A%20%20move%20(2)%20steps%0Aend&from=en&to=ru
 
 # -- Rock Band
-rock-band: http://projects.codeclub.org.uk/en-GB/01_scratch_01/01/Rock Band.html
-rockband: http://projects.codeclub.org.uk/en-GB/01_scratch_01/01/Rock Band.html
+rock-band: http://projects.codeclub.org.uk/en-GB/01_scratch_01/01/Rock%20Band.html
+rockband: http://projects.codeclub.org.uk/en-GB/01_scratch_01/01/Rock%20Band.html
 sond-music: http://projects.codeclub.org.uk/en-GB/01_scratch_01/01/Rock%20Band.html
 sound-music: http://projects.codeclub.org.uk/en-GB/01_scratch_01/01/Rock%20Band.html
 # -- Lost in Space

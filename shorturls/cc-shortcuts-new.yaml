@@ -93,9 +93,9 @@ scr-on: https://scratch.mit.edu
 scratch-online: https://scratch.mit.edu
 scratch-new: https://scratch.mit.edu/projects/editor/
 # -- Rock Band
-rock-band: http://codeclubprojects.org/en-GB/scratch/rock-band.html
-rockband: http://codeclubprojects.org/en-GB/scratch/rock-band.html
-sound-music: http://codeclubprojects.org/en-GB/scratch/rock-band.html
+rock-band: http://codeclubprojects.org/en-GB/scratch/rock-band
+rockband: http://codeclubprojects.org/en-GB/scratch/rock-band
+sound-music: http://codeclubprojects.org/en-GB/scratch/rock-band
 # -- Lost in Space
 space: http://codeclubprojects.org/en-GB/scratch/lost-in-space
 lostinspace: http://codeclubprojects.org/en-GB/scratch/lost-in-space

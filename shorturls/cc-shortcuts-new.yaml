@@ -89,8 +89,10 @@ scr-cards: https://scratch.mit.edu/help/cards/
 scratch-cards: https://scratch.mit.edu/help/cards/
 scr-off: https://scratch.mit.edu/scratch2download/
 scratch-offline: https://scratch.mit.edu/scratch2download/
+scratch-off: https://scratch.mit.edu/scratch2download/
 scr-on: https://scratch.mit.edu
 scratch-online: https://scratch.mit.edu
+scratch-on: https://scratch.mit.edu
 scratch-new: https://scratch.mit.edu/projects/editor/
 # -- Rock Band
 rock-band: https://codeclubprojects.org/en-GB/scratch/rock-band/

@@ -6,8 +6,8 @@ cc-contribute: https://github.com/CodeClub/curriculum_documentation/blob/master/
 contribute: https://github.com/CodeClub/curriculum_documentation/blob/master/contributing.md
 ccp-maze2-solution: https://scratch.mit.edu/projects/66177618/#editor
 space-resources: https://scratch.mit.edu/projects/65658138/#editor
-html-1: http://projects.codeclub.org.uk/en-GB/05_html_01/index.html
-scratch-day: http://projects.codeclub.org.uk/en-GB/03_scratch_bonus/02/Space Junk.html
+html-1: https://www.codeclubprojects.org/en-GB/webdev/happy-birthday/
+scratch-day: https://codeclubprojects.org/en-GB/scratch/space-junk/
 ccp-maze: https://scratch.mit.edu/projects/59724750/#editor
 ccp-maze2: https://scratch.mit.edu/projects/59724872/#editor
 ccp-maze1: https://scratch.mit.edu/projects/59724750/
@@ -15,7 +15,7 @@ scratch-youtube: https://www.youtube.com/watch?v=-SjuiawRMU4
 1CsnmBo: https://s3-eu-west-1.amazonaws.com/codeclub-html-images/build-a-robot/robot-head.png
 test-link2: https://s3-eu-west-1.amazonaws.com/codeclub-html-images/build-a-robot
 1DnaUGq: https://s3-eu-west-1.amazonaws.com/codeclub-html-images/build-a-robot/
-py-compliment: http://projects.codeclub.org.uk/en-GB/09_python/06/Compliment Generator.html
+py-compliment: https://codeclubprojects.org/en-GB/python/compliment-generator/
 leeds-comp: https://docs.google.com/presentation/d/1HmVmJCjPss7nvC3EnpGhSWju97V8CRBYdnpQp16cWVI/edit?usp=sharing
 scratch-dodgeball: https://scratch.mit.edu/projects/39740618/#editor
 cas-prog: http://community.computingatschool.org.uk/resources/2324
@@ -46,14 +46,14 @@ html-images: https://s3-eu-west-1.amazonaws.com/codeclub-html-images/
 1DEGyuS: https://github.com/CodeClub/lesson_format/issues/128#issuecomment-72816308
 cc-docs: https://github.com/CodeClub/curriculum_documentation/blob/master/README.md
 18CpLPy: http://blog.codeclub.org.uk/2015/01/27/is-your-club-registered/
-1yHMUJI: http://codeclubprojects.org/en-GB/scratch/chatbot
+1yHMUJI: https://codeclubprojects.org/en-GB/scratch/chatbot/
 1IpKovZ: https://scratch.mit.edu/projects/38160182/#editor
 1IpKjrW: https://github.com/CodeClubRik
-scratch-snowball: http://projects.codeclub.org.uk/en-GB/03_scratch_bonus/04/Snowball Fight.html
+scratch-snowball: https://codeclubprojects.org/en-GB/scratch/snowball-fight/
 
-pyth-loop: http://codeclubprojects.org/en-GB/python/turtle-power
-py-quiz: http://codeclubprojects.org/en-GB/python/quiz
-pyth-var: http://codeclubprojects.org/en-GB/python/the-year-2025
+pyth-loop: https://codeclubprojects.org/en-GB/python/turtle-power/
+py-quiz: https://codeclubprojects.org/en-GB/python/quiz/
+pyth-var: https://codeclubprojects.org/en-GB/python/the-year-2025/
 1xs98wM: https://www.codeclub.org.uk/working-safely-with-children
 1oTpjy5: https://s3.amazonaws.com/codeclub-assets/public/Complaints+Procedure.pdf
 1w00Mez: https://s3.amazonaws.com/codeclub-assets/public/Code+Club+Terms+of+Service+v9.pdf
@@ -62,12 +62,12 @@ g-gr: https://www.codeclub.org.uk/communities-and-events/code-club-google-groups
 1xpbVa2: https://github.com/CodeClub/scratch-curriculum/blob/master/CONTRIBUTING.md
 beta-fb: https://docs.google.com/forms/d/1eMCfpYe3v7eYu5M8rSqLKlmq7cczLCLHx66csgyUyVU/viewform?usp=send_form
 get-py: https://www.python.org/download/releases/3.2/#download
-1pjbSq0: http://codeclubprojects.org/en-GB/09_python/
-py-if: http://codeclubprojects.org/en-GB/python/quiz
-py-loop: http://codeclubprojects.org/en-GB/python/turtle-power
-py-var: http://codeclubprojects.org/python/the-year-2025
-1DiOdAB: http://codeclubprojects.org/en-GB/python
-py-seq: http://codeclubprojects.org/en-GB/python/ascii-art
+1pjbSq0: https://codeclubprojects.org/en-GB/09_python/
+py-if: https://codeclubprojects.org/en-GB/python/quiz/
+py-loop: https://codeclubprojects.org/en-GB/python/turtle-power/
+py-var: https://codeclubprojects.org/python/the-year-2025/
+1DiOdAB: https://codeclubprojects.org/en-GB/python/
+py-seq: https://codeclubprojects.org/en-GB/python/ascii-art/
 1lPMyg3: https://docs.google.com/forms/d/1NrlYr33CVWrqUntuKv3x3UNJvqC-FfmKy4d0JQ6SPh4/viewform?usp=send_form
 1uH5vRY: https://docs.google.com/forms/d/1HUqNwS-tCeL9-1E9nKo7KsdCn0e6CAtu3oBI23JG4GY/viewform?usp=send_form
 ZfEP0P: https://www.youtube.com/watch?v=VhS-M1i5H4g&list=PL3qxdM6ba83QwHoPyv0Vrxrmf4C1Je68W&index=2
@@ -75,9 +75,9 @@ ZfEP0P: https://www.youtube.com/watch?v=VhS-M1i5H4g&list=PL3qxdM6ba83QwHoPyv0Vrx
 1onNALZ: http://blog.codeclub.org.uk/2014/09/08/superstars-in-scotland/
 1lT8aIZ: https://github.com/benedfit/codeclub-poster
 
-scratch-intro: http://codeclubprojects.org/en-GB/resources/#scratch
-html-intro: http://codeclubprojects.org/en-GB/resources/#webdev
-python-intro: http://codeclubprojects.org/en-GB/resources/#python
+scratch-intro: https://codeclubprojects.org/en-GB/resources/#scratch
+html-intro: https://codeclubprojects.org/en-GB/resources/#webdev
+python-intro: https://codeclubprojects.org/en-GB/resources/#python
 
 python-offline: https://www.python.org/download/releases/3.2/#download
 
@@ -93,100 +93,102 @@ scr-on: https://scratch.mit.edu
 scratch-online: https://scratch.mit.edu
 scratch-new: https://scratch.mit.edu/projects/editor/
 # -- Rock Band
-rock-band: http://codeclubprojects.org/en-GB/scratch/rock-band
-rockband: http://codeclubprojects.org/en-GB/scratch/rock-band
-sound-music: http://codeclubprojects.org/en-GB/scratch/rock-band
+rock-band: https://codeclubprojects.org/en-GB/scratch/rock-band/
+rockband: https://codeclubprojects.org/en-GB/scratch/rock-band/
+sound-music: https://codeclubprojects.org/en-GB/scratch/rock-band/
 # -- Lost in Space
-space: http://codeclubprojects.org/en-GB/scratch/lost-in-space
-lostinspace: http://codeclubprojects.org/en-GB/scratch/lost-in-space
-lost-in-space: http://codeclubprojects.org/en-GB/scratch/lost-in-space
+space: https://codeclubprojects.org/en-GB/scratch/lost-in-space/
+lostinspace: https://codeclubprojects.org/en-GB/scratch/lost-in-space/
+lost-in-space: https://codeclubprojects.org/en-GB/scratch/lost-in-space/
 # -- ChatBot
-chatbot: http://codeclubprojects.org/en-GB/scratch/chatbot
-chat-bot: http://codeclubprojects.org/en-GB/scratch/chatbot
+chatbot: https://codeclubprojects.org/en-GB/scratch/chatbot/
+chat-bot: https://codeclubprojects.org/en-GB/scratch/chatbot/
 # -- Paint Box
-paint: http://codeclubprojects.org/en-GB/scratch/paint-box
-paintbox: http://codeclubprojects.org/en-GB/scratch/paint-box
-paint-box: http://codeclubprojects.org/en-GB/scratch/paint-box
+paint: https://codeclubprojects.org/en-GB/scratch/paint-box/
+paintbox: https://codeclubprojects.org/en-GB/scratch/paint-box/
+paint-box: https://codeclubprojects.org/en-GB/scratch/paint-box/
 paint-resources: https://scratch.mit.edu/projects/37836992/#editor
 paintbox-resources: https://scratch.mit.edu/projects/63473670/#editor
 # -- Boat Race
-boat: http://codeclubprojects.org/en-GB/scratch/boat-race
-boat-race: http://codeclubprojects.org/en-GB/scratch/boat-race
-boatrace: http://codeclubprojects.org/en-GB/scratch/boat-race
+boat: https://codeclubprojects.org/en-GB/scratch/boat-race/
+boat-race: https://codeclubprojects.org/en-GB/scratch/boat-race/
+boatrace: https://codeclubprojects.org/en-GB/scratch/boat-race/
 boat-resources: https://scratch.mit.edu/projects/37837664/#editor
 boatrace-resources: https://scratch.mit.edu/projects/63958014/#editor
 # -- Dodgeball
-dodge: http://codeclubprojects.org/en-GB/scratch/
-dodgeball: http://codeclubprojects.org/en-GB/scratch/
+dodge: https://codeclubprojects.org/en-GB/scratch/
+dodgeball: https://codeclubprojects.org/en-GB/scratch/
 dodge-resources: https://scratch.mit.edu/projects/40065008/#editor
 dodgeball-resources: https://scratch.mit.edu/projects/40065008/#editor
 # -- Catch the Dots
-dots: http://codeclubprojects.org/en-GB/scratch/catch-the-dots
-catch-the-dots: http://codeclubprojects.org/en-GB/scratch/catch-the-dots
-catchthedots: http://codeclubprojects.org/en-GB/scratch/catch-the-dots
+dots: https://codeclubprojects.org/en-GB/scratch/catch-the-dots/
+catch-the-dots: https://codeclubprojects.org/en-GB/scratch/catch-the-dots/
+catchthedots: https://codeclubprojects.org/en-GB/scratch/catch-the-dots/
 dots-resources: https://scratch.mit.edu/projects/45264192/#editor
 # -- Create Your Own World
-world: http://codeclubprojects.org/en-GB/scratch/create-your-own-world
-create-your-own-world: http://codeclubprojects.org/en-GB/scratch/create-your-own-world
-createyourownworld: http://codeclubprojects.org/en-GB/scratch/create-your-own-world
+world: https://codeclubprojects.org/en-GB/scratch/create-your-own-world/
+create-your-own-world: https://codeclubprojects.org/en-GB/scratch/create-your-own-world/
+createyourownworld: https://codeclubprojects.org/en-GB/scratch/create-your-own-world/
 world-resources: https://scratch.mit.edu/projects/37836116/#editor
 # -- Other
-balloons-game: http://codeclubprojects.org/en-GB/scratch/balloons
-space-animation: http://codeclubprojects.org/en-GB/scratch/lost-in-space
+balloons-game: https://codeclubprojects.org/en-GB/scratch/balloons/
+space-animation: https://codeclubprojects.org/en-GB/scratch/lost-in-space/
 
 # HTML & CSS project links
 
 # -- Happy Birthday
-birthday: http://codeclubprojects.org/en-GB/webdev/happy-birthday
-happy-birthday: http://codeclubprojects.org/en-GB/webdev/happy-birthday
-happybirthday: http://codeclubprojects.org/en-GB/webdev/happy-birthday
+birthday: https://codeclubprojects.org/en-GB/webdev/happy-birthday/
+happy-birthday: https://codeclubprojects.org/en-GB/webdev/happy-birthday/
+happybirthday: https://codeclubprojects.org/en-GB/webdev/happy-birthday/
 web-intro: https://trinket.io/html/850a678202
 web-intro-pl: https://trinket.io/html/4f957e888f
 trinket-intro: https://trinket.io/html/850a678202
 web-card: https://trinket.io/html/90506676c9
 trinket-card: https://trinket.io/html/90506676c9
 # -- Tell a Story
-story: http://codeclubprojects.org/en-GB/webdev/tell-a-story
-tell-a-story: http://codeclubprojects.org/en-GB/webdev/tell-a-story
-tellastory: http://codeclubprojects.org/en-GB/webdev/tell-a-story
+story: https://codeclubprojects.org/en-GB/webdev/tell-a-story/
+tell-a-story: https://codeclubprojects.org/en-GB/webdev/tell-a-story/
+tellastory: https://codeclubprojects.org/en-GB/webdev/tell-a-story/
 web-story: https://trinket.io/html/8083cfebb3
 trinket-story: https://trinket.io/html/8083cfebb3
 web-images: https://s3-eu-west-1.amazonaws.com/codeclub-html-images/images.html
 # -- Wanted!
-wanted: http://codeclubprojects.org/en-GB/webdev/wanted
+wanted: https://codeclubprojects.org/en-GB/webdev/wanted/
 web-wanted: https://trinket.io/html/58318bee1f
 trinket-wanted: https://trinket.io/html/58318bee1f
+# -- Recipe
+recipe: https://www.codeclubprojects.org/en-GB/webdev/recipe/
+# -- Build a Robot
+robot: https://www.codeclubprojects.org/en-GB/webdev/build-a-robot/
+web-robot: https://trinket.io/html/b29b50e571
+trinket-robot: https://trinket.io/html/b29b50e571
 # -- Other
 trinket-template: https://trinket.io/html/ef4c882ae6
 trinket-blank: https://trinket.io/html/abfef6a560
 web-jokes: https://trinket.io/html/526c56ff96
-trinket-okes: https://trinket.io/html/526c56ff96
-web-robot: https://trinket.io/html/b29b50e571
-trinket-robot: https://trinket.io/html/b29b50e571
+trinket-jokes: https://trinket.io/html/526c56ff96
 web-faces: https://trinket.io/html/00736c0e18
 trinket-faces: https://trinket.io/html/00736c0e18
 web-colours: http://colours.neilorangepeel.com/
 trinket-colours: http://colours.neilorangepeel.com/
-web-story: https://trinket.io/html/8083cfebb3
-trinket-story: https://trinket.io/html/8083cfebb3
-web-comic: https://trinket.io/html/8083cfebb3
-trinket-comic: https://trinket.io/html/8083cfebb3
 web-sunrise: https://trinket.io/html/5085f92143
 trinket-sunrise: https://trinket.io/html/5085f92143
 
 # Python project links
 
-ascii: http://codeclubprojects.org/en-GB/python/ascii-art
+ascii: https://codeclubprojects.org/en-GB/python/ascii-art/
 
 # Partner project links
 
-codekingdoms: http://codeclubprojects.org/en-GB/code-kingdoms
+codekingdoms: https://codeclubprojects.org/en-GB/code-kingdoms/
 diy-kit: https://www.techwillsaveus.com/shop/diy-kits/diy-gamer-kit-arduino/
 
 # micro:bit test projects
 
 mb-test: https://drive.google.com/a/codeclub.org.uk/folderview?id=0B4zTzKLdF55gfng0WVJJOXp5R0QyZWxtUWZLTVBMeXU0Skdta1NicGNjclVJTGJIOEk0MFk&usp=sharing
 mb-new: https://live.microbit.co.uk/app/#create:rnzmbf
+badge: https://codeclubprojects.org/en-GB/microbit/interactive-badge/
+decision: https://codeclubprojects.org/en-GB/microbit/decision-maker/
 
 # Impact Evaluation
 ct-quiz: http://codeclub.beverwedstrijd.nl/

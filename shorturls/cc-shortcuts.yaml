@@ -159,7 +159,7 @@ trinket-wanted: https://trinket.io/html/58318bee1f
 # -- Recipe
 recipe: https://www.codeclubprojects.org/en-GB/webdev/recipe/
 # -- Build a Robot
-https://www.codeclubprojects.org/en-GB/webdev/build-a-robot/
+robot: https://www.codeclubprojects.org/en-GB/webdev/build-a-robot/
 web-robot: https://trinket.io/html/b29b50e571
 trinket-robot: https://trinket.io/html/b29b50e571
 # -- Other

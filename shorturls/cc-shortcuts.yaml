@@ -156,21 +156,21 @@ web-images: https://s3-eu-west-1.amazonaws.com/codeclub-html-images/images.html
 wanted: https://codeclubprojects.org/en-GB/webdev/wanted/
 web-wanted: https://trinket.io/html/58318bee1f
 trinket-wanted: https://trinket.io/html/58318bee1f
+# -- Recipe
+recipe: https://www.codeclubprojects.org/en-GB/webdev/recipe/
+# -- Build a Robot
+https://www.codeclubprojects.org/en-GB/webdev/build-a-robot/
+web-robot: https://trinket.io/html/b29b50e571
+trinket-robot: https://trinket.io/html/b29b50e571
 # -- Other
 trinket-template: https://trinket.io/html/ef4c882ae6
 trinket-blank: https://trinket.io/html/abfef6a560
 web-jokes: https://trinket.io/html/526c56ff96
-trinket-okes: https://trinket.io/html/526c56ff96
-web-robot: https://trinket.io/html/b29b50e571
-trinket-robot: https://trinket.io/html/b29b50e571
+trinket-jokes: https://trinket.io/html/526c56ff96
 web-faces: https://trinket.io/html/00736c0e18
 trinket-faces: https://trinket.io/html/00736c0e18
 web-colours: http://colours.neilorangepeel.com/
 trinket-colours: http://colours.neilorangepeel.com/
-web-story: https://trinket.io/html/8083cfebb3
-trinket-story: https://trinket.io/html/8083cfebb3
-web-comic: https://trinket.io/html/8083cfebb3
-trinket-comic: https://trinket.io/html/8083cfebb3
 web-sunrise: https://trinket.io/html/5085f92143
 trinket-sunrise: https://trinket.io/html/5085f92143
 

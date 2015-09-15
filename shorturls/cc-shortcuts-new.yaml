@@ -143,10 +143,12 @@ birthday: https://codeclubprojects.org/en-GB/webdev/happy-birthday/
 happy-birthday: https://codeclubprojects.org/en-GB/webdev/happy-birthday/
 happybirthday: https://codeclubprojects.org/en-GB/webdev/happy-birthday/
 web-intro: https://trinket.io/html/850a678202
-web-intro-pl: https://trinket.io/html/4f957e888f
 trinket-intro: https://trinket.io/html/850a678202
 web-card: https://trinket.io/html/90506676c9
 trinket-card: https://trinket.io/html/90506676c9
+# -- Happy Birhtday PL
+html-wstep: https://trinket.io/html/4f957e888f
+kartka-urodzinowa: https://trinket.io/html/0220902ffd
 # -- Tell a Story
 story: https://codeclubprojects.org/en-GB/webdev/tell-a-story/
 tell-a-story: https://codeclubprojects.org/en-GB/webdev/tell-a-story/

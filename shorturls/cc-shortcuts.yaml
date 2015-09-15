@@ -163,6 +163,8 @@ html-obrazki: https://s3-eu-west-1.amazonaws.com/codeclub-html-images/images.htm
 wanted: https://codeclubprojects.org/en-GB/webdev/wanted/
 web-wanted: https://trinket.io/html/58318bee1f
 trinket-wanted: https://trinket.io/html/58318bee1f
+# -- Wanted! - PL
+html-poszukiwany: https://trinket.io/html/aa8cd3c9f4
 # -- Recipe
 recipe: https://www.codeclubprojects.org/en-GB/webdev/recipe/
 # -- Build a Robot

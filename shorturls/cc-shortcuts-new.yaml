@@ -156,6 +156,9 @@ tellastory: https://codeclubprojects.org/en-GB/webdev/tell-a-story/
 web-story: https://trinket.io/html/8083cfebb3
 trinket-story: https://trinket.io/html/8083cfebb3
 web-images: https://s3-eu-west-1.amazonaws.com/codeclub-html-images/images.html
+# -- Tell a Story - PL
+html-historyjka: https://trinket.io/html/c5815d0eb4
+html-obrazki: https://s3-eu-west-1.amazonaws.com/codeclub-html-images/images.html
 # -- Wanted!
 wanted: https://codeclubprojects.org/en-GB/webdev/wanted/
 web-wanted: https://trinket.io/html/58318bee1f

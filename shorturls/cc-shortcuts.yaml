@@ -141,7 +141,11 @@ world-resources: https://scratch.mit.edu/projects/37836116/#editor
 # -- Other
 balloons-game: https://codeclubprojects.org/en-GB/scratch/balloons/
 space-animation: https://codeclubprojects.org/en-GB/scratch/lost-in-space/
-
+# -- Ada's Poetry Generator
+ada: https://codeclubprojects.org/en-GB/scratch/poetry-generator/
+poetry: https://codeclubprojects.org/en-GB/scratch/poetry-generator/
+poetry-generator: https://codeclubprojects.org/en-GB/scratch/poetry-generator/
+poetry-resources: https://scratch.mit.edu/projects/78464622/#editor
 # HTML & CSS project links
 
 # -- Happy Birthday

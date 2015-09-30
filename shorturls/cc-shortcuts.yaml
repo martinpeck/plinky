@@ -86,6 +86,9 @@ html-intro: https://codeclubprojects.org/en-GB/resources/#webdev
 python-intro: https://codeclubprojects.org/en-GB/resources/#python
 
 python-offline: https://www.python.org/download/releases/3.2/#download
+scratch-resources: https://www.codeclubprojects.org/en-GB/resources/#scratch
+python-resources: https://www.codeclubprojects.org/en-GB/resources/#python
+html-resources: https://www.codeclubprojects.org/en-GB/resources/#webdev
 
 # Scratch project links
 scratch-translate: http://scratchblocks.codeclub.org.uk/translator/#script=when%20flag%20clicked%0Aforever%0A%20%20move%20(2)%20steps%0Aend&from=en&to=ru

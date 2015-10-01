@@ -1,24 +1,18 @@
 from flask import Flask, render_template, url_for, redirect
 import logging
-import analytics
 import os
 from shortcuts import Shortcuts
+from tracking import TrackingHelper
 
 app = Flask(__name__)
 
-analytics.write_key = os.environ.get('SEGMENT_WRITE_KEY', '')
-shortcut_file = os.environ['SHORTCUT_FILE']
-
-shortcuts = Shortcuts(shortcut_file)
+shortcuts = Shortcuts(os.environ['SHORTCUT_FILE'])
+tracking = TrackingHelper(os.environ.get('SEGMENT_WRITE_KEY', ""))
 
 @app.route("/", methods=['GET'])
 @app.route("/<path:shorturl>", methods=['GET'])
 def redirect_to_short_url(shorturl=""):
-
-  analytics.track('plinky-server', 'redirect_to_short_url', {
-    'shorturl': shorturl
-  })
-
+  tracking.track_redirect(shorturl)
   return redirect(shortcuts.lookup_shorturl(shorturl), 301)
 
 @app.route("/discover", methods=['GET'])
@@ -34,6 +28,4 @@ def page_not_found(error):
   return render_template('404.html'), 404
 
 if __name__ == "__main__":
-    app.debug = True
-    analytics.debug = True;
     app.run()

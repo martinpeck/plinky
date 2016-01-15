@@ -196,10 +196,6 @@ trinket-wanted: https://trinket.io/html/58318bee1f
 html-poszukiwany: https://trinket.io/html/aa8cd3c9f4
 # -- Recipe
 recipe: https://www.codeclubprojects.org/en-GB/webdev/recipe/
-# -- Build a Robot
-robot: https://www.codeclubprojects.org/en-GB/webdev/build-a-robot/
-web-robot: https://trinket.io/html/b29b50e571
-trinket-robot: https://trinket.io/html/b29b50e571
 # -- Mystery Letter
 letter: https://www.codeclubprojects.org/en-GB/webdev/mystery-letter/
 web-letter: https://trinket.io/html/b5fbcf112e
@@ -210,11 +206,30 @@ html-list: https://trinket.io/html/d8baf77b3e
 showcase: https://www.codeclubprojects.org/en-GB/webdev/project-showcase/
 web-showcase: https://trinket.io/html/9ad31460f0
 trinket-showcase: https://trinket.io/html/9ad31460f0
+# -- Build a Robot
+robot: https://www.codeclubprojects.org/en-GB/webdev/build-a-robot/
+web-robot: https://trinket.io/html/b29b50e571
+trinket-robot: https://trinket.io/html/b29b50e571
+# -- Stickers
+stickers: https://www.codeclubprojects.org/en-GB/webdev/stickers/
+web-stickers: https://trinket.io/html/af0ea6fa35
+trinket-stickers: https://trinket.io/html/af0ea6fa35
+# -- Sunrise
+sunrise: https://www.codeclubprojects.org/en-GB/webdev/sunrise/
+web-sunrise: https://trinket.io/html/5085f92143
+trinket-sunrise: https://trinket.io/html/5085f92143
 # -- Linked Rooms
 rooms: https://www.codeclubprojects.org/en-GB/webdev/linked-rooms/
 web-rooms: https://trinket.io/html/ef608f0733
+trinket-rooms: https://trinket.io/html/ef608f0733
+# -- Magazine
+magazine: https://www.codeclubprojects.org/en-GB/webdev/magazine/
+web-magazine: https://trinket.io/html/cef5e64bc0
+trinket-magazine: https://trinket.io/html/cef5e64bc0
 # -- Pixel Art
 pixel: https://www.codeclubprojects.org/en-GB/webdev/pixel-art/
+web-pixel: https://trinket.io/html/e705f264f59
+trinket-pixel: https://trinket.io/html/e705f264f59
 # -- Other
 trinket-template: https://trinket.io/html/ef4c882ae6
 trinket-blank: https://trinket.io/html/abfef6a560
@@ -225,8 +240,7 @@ trinket-faces: https://trinket.io/html/00736c0e18
 web-colours: http://colours.neilorangepeel.com/
 trinket-colours: http://colours.neilorangepeel.com/
 web-fonts: https://www.google.com/fonts
-web-sunrise: https://trinket.io/html/5085f92143
-trinket-sunrise: https://trinket.io/html/5085f92143
+
 
 # Python project links
 

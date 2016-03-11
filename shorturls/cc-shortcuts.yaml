@@ -1,5 +1,9 @@
 default: https://codeclub.org.uk
 
+#club member surveys
+start-survey: http://www.codeclub.org.uk/surveys/initial-member-survey
+termly-survey: http://www.codeclub.org.uk/surveys/termly-member-survey
+
 email-sig: https://s3.amazonaws.com/codeclub-assets/public/code_club_email.png
 
 compliment: http://projects.codeclubworld.org/en-GB/09_python/06/Compliment%20Generator.html

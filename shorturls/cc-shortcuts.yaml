@@ -249,7 +249,11 @@ web-fonts: https://www.google.com/fonts
 
 # Python project links
 
+# -- ASCII Art
 ascii: https://codeclubprojects.org/en-GB/python/ascii-art/
+# -- CodeCraft
+codecraft: https://www.codeclubprojects.org/en-GB/python/codecraft/
+codecraft-resources: https://trinket.io/python/fdd32064f8
 
 # Partner project links
 

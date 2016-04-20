@@ -251,6 +251,9 @@ web-fonts: https://www.google.com/fonts
 
 # -- ASCII Art
 ascii: https://codeclubprojects.org/en-GB/python/ascii-art/
+# -- RPG
+rpg: https://codeclubprojects.org/en-GB/python/rpg/
+rpg-resources: https://trinket.io/python/09fa4faae7
 # -- CodeCraft
 codecraft: https://www.codeclubprojects.org/en-GB/python/codecraft/
 codecraft-resources: https://trinket.io/python/fdd32064f8

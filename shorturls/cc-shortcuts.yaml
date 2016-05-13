@@ -255,12 +255,34 @@ web-fonts: https://www.google.com/fonts
 python-new: https://trinket.io/python/33e5c3b81b
 # -- ASCII Art
 ascii: https://codeclubprojects.org/en-GB/python/ascii-art/
+# -- Rock, Paper, Scissors
+# -- Turtle Race
+turtle-race: https://codeclubprojects.org/en-GB/python/turtle-race/
+turtle-race-resources: https://trinket.io/python/1a21d94352
+# -- Team Chooser
+# -- Colourful Creations
+colourful: https://codeclubprojects.org/en-GB/python/colourful-creations/
+colour-picker: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool
+# -- Secret Messages
+# -- Modern Art
+modern: https://codeclubprojects.org/en-GB/python/modern-art/
+modern-resources: https://trinket.io/python/3549b126c4
+# -- Popular Pets
+popular: https://codeclubprojects.org/en-GB/python/popular-pets/
 # -- RPG
 rpg: https://codeclubprojects.org/en-GB/python/rpg/
 rpg-resources: https://trinket.io/python/09fa4faae7
+# -- Where is the ISS?
+iss: https://codeclubprojects.org/en-GB/python/iss/
+iss-resources: https://trinket.io/python/649a766f84
+# -- Robotrumps
+robotrumps: https://codeclubprojects.org/en-GB/python/robotrumps/
+robotrumps-resources: https://trinket.io/python/e32251230a
 # -- CodeCraft
 codecraft: https://www.codeclubprojects.org/en-GB/python/codecraft/
 codecraft-resources: https://trinket.io/python/fdd32064f8
+
+
 
 # Partner project links
 

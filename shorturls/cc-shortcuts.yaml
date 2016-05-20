@@ -183,9 +183,9 @@ birthday: https://codeclubprojects.org/en-GB/webdev/happy-birthday/
 happy-birthday: https://codeclubprojects.org/en-GB/webdev/happy-birthday/
 happybirthday: https://codeclubprojects.org/en-GB/webdev/happy-birthday/
 web-intro: https://trinket.io/html/850a678202
-trinket-intro: https://trinket.io/html/850a678202
+intro-go: https://trinket.io/html/850a678202
 web-card: https://trinket.io/html/90506676c9
-trinket-card: https://trinket.io/html/90506676c9
+card-go: https://trinket.io/html/90506676c9
 # -- Happy Birhtday PL
 html-wstep: https://trinket.io/html/4f957e888f
 kartka-urodzinowa: https://trinket.io/html/0220902ffd
@@ -194,7 +194,7 @@ story: https://codeclubprojects.org/en-GB/webdev/tell-a-story/
 tell-a-story: https://codeclubprojects.org/en-GB/webdev/tell-a-story/
 tellastory: https://codeclubprojects.org/en-GB/webdev/tell-a-story/
 web-story: https://trinket.io/html/8083cfebb3
-trinket-story: https://trinket.io/html/8083cfebb3
+story-go: https://trinket.io/html/8083cfebb3
 web-images: https://s3-eu-west-1.amazonaws.com/codeclub-html-images/images.html
 html-images: https://s3-eu-west-1.amazonaws.com/codeclub-html-images/images.html
 # -- Tell a Story - PL
@@ -203,7 +203,7 @@ html-obrazki: https://s3-eu-west-1.amazonaws.com/codeclub-html-images/images.htm
 # -- Wanted!
 wanted: https://codeclubprojects.org/en-GB/webdev/wanted/
 web-wanted: https://trinket.io/html/58318bee1f
-trinket-wanted: https://trinket.io/html/58318bee1f
+wanted-go: https://trinket.io/html/58318bee1f
 # -- Wanted! - PL
 html-poszukiwany: https://trinket.io/html/aa8cd3c9f4
 # -- Recipe
@@ -211,49 +211,49 @@ recipe: https://www.codeclubprojects.org/en-GB/webdev/recipe/
 # -- Mystery Letter
 letter: https://www.codeclubprojects.org/en-GB/webdev/mystery-letter/
 web-letter: https://trinket.io/html/b5fbcf112e
-trinket-letter: https://trinket.io/html/b5fbcf112e
+letter-go: https://trinket.io/html/b5fbcf112e
 # -- Mystery Letter - PL
 html-list: https://trinket.io/html/d8baf77b3e
 # -- Project Showcase
 showcase: https://www.codeclubprojects.org/en-GB/webdev/project-showcase/
 web-showcase: https://trinket.io/html/9ad31460f0
-trinket-showcase: https://trinket.io/html/9ad31460f0
+showcase-go: https://trinket.io/html/9ad31460f0
 # -- Build a Robot
 robot: https://www.codeclubprojects.org/en-GB/webdev/build-a-robot/
 web-robot: https://trinket.io/html/b29b50e571
-trinket-robot: https://trinket.io/html/b29b50e571
+robot-go: https://trinket.io/html/b29b50e571
 # -- Stickers
 stickers: https://www.codeclubprojects.org/en-GB/webdev/stickers/
 web-stickers: https://trinket.io/html/af0ea6fa35
-trinket-stickers: https://trinket.io/html/af0ea6fa35
+stickers-go: https://trinket.io/html/af0ea6fa35
 # -- Sunrise
 sunrise: https://www.codeclubprojects.org/en-GB/webdev/sunrise/
 web-sunrise: https://trinket.io/html/5085f92143
-trinket-sunrise: https://trinket.io/html/5085f92143
+sunrise-go: https://trinket.io/html/5085f92143
 # -- Linked Rooms
 rooms: https://www.codeclubprojects.org/en-GB/webdev/linked-rooms/
 web-rooms: https://trinket.io/html/ef608f0733
-trinket-rooms: https://trinket.io/html/ef608f0733
+rooms-go: https://trinket.io/html/ef608f0733
 # -- Magazine
 magazine: https://www.codeclubprojects.org/en-GB/webdev/magazine/
 web-magazine: https://trinket.io/html/cef5e64bc0
-trinket-magazine: https://trinket.io/html/cef5e64bc0
+magazine-go: https://trinket.io/html/cef5e64bc0
 # -- Pixel Art
 pixel: https://www.codeclubprojects.org/en-GB/webdev/pixel-art/
 web-pixel: https://trinket.io/html/705f264f59
-trinket-pixel: https://trinket.io/html/705f264f59
+pixel-go: https://trinket.io/html/705f264f59
 # -- Other
 trinket-template: https://trinket.io/html/ef4c882ae6
 html-template: https://trinket.io/html/ef4c882ae6
 trinket-blank: https://trinket.io/html/abfef6a560
 html-blank: https://trinket.io/html/abfef6a560
 web-jokes: https://trinket.io/html/526c56ff96
-trinket-jokes: https://trinket.io/html/526c56ff96
+jokes-go: https://trinket.io/html/526c56ff96
 web-faces: https://trinket.io/html/00736c0e18
-trinket-faces: https://trinket.io/html/00736c0e18
+faces-go: https://trinket.io/html/00736c0e18
 web-colours: http://colours.neilorangepeel.com/
 colour-names: http://colours.neilorangepeel.com/
-trinket-colours: http://colours.neilorangepeel.com/
+colours-go: http://colours.neilorangepeel.com/
 web-fonts: https://www.google.com/fonts
 
 

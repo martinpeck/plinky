@@ -182,8 +182,6 @@ goalie-resources: https://scratch.mit.edu/projects/109833197/#editor
 # -- Green Your City
 city: https://codeclubprojects.org/en-GB/scratch/green-your-city/
 city-resources: https://scratch.mit.edu/projects/113732481/#editor
-# -- Synchronised Swimming
-swimming: https://codeclubprojects.org/en-GB/scratch/synchronised-swimming/
 
 # HTML & CSS project links
 
@@ -271,6 +269,9 @@ python-new: https://trinket.io/python/33e5c3b81b
 # -- ASCII Art
 ascii: https://codeclubprojects.org/en-GB/python/ascii-art/
 # -- Rock, Paper, Scissors
+rps: https://codeclubprojects.org/en-GB/python/rock-paper-scissors/
+rock-paper-scissors: https://codeclubprojects.org/en-GB/python/rock-paper-scissors/
+rps-go: https://trinket.io/python/de918c4f5d
 # -- Turtle Race
 turtle-race: https://codeclubprojects.org/en-GB/python/turtle-race/
 # -- Team Chooser

@@ -298,9 +298,9 @@ rpg-go: https://trinket.io/python/09fa4faae7
 # -- Where is the ISS?
 iss: https://codeclubprojects.org/en-GB/python/iss/
 iss-go: https://trinket.io/python/649a766f84
-# -- Robotrumps
-robotrumps: https://codeclubprojects.org/en-GB/python/robotrumps/
-robotrumps-go: https://trinket.io/python/e32251230a
+# -- Robo-Trumps
+robo-trumps: https://codeclubprojects.org/en-GB/python/robotrumps/
+trumps-go: https://trinket.io/python/e32251230a
 # -- CodeCraft
 codecraft: https://www.codeclubprojects.org/en-GB/python/codecraft/
 codecraft-go: https://trinket.io/python/fdd32064f8

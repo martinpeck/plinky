@@ -274,6 +274,8 @@ web-fonts: https://www.google.com/fonts
 python-new: https://trinket.io/python/33e5c3b81b
 # -- ASCII Art
 ascii: https://codeclubprojects.org/en-GB/python/ascii-art/
+# -- About Me
+about-me: https://codeclubprojects.org/en-GB/python/about-me/
 # -- Rock, Paper, Scissors
 rps: https://codeclubprojects.org/en-GB/python/rock-paper-scissors/
 rock-paper-scissors: https://codeclubprojects.org/en-GB/python/rock-paper-scissors/

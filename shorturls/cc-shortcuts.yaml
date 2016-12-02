@@ -336,7 +336,20 @@ trumps-go: https://trinket.io/python/e32251230a
 codecraft: https://www.codeclubprojects.org/en-GB/python/codecraft/
 codecraft-go: https://trinket.io/python/fdd32064f8
 
+# Sense HAT projects
 
+# -- Timer
+timer: https://www.codeclubprojects.org/en-GB/sense-hat/timer
+timer-go: https://trinket.io/python/b328848f53
+# -- Rainbow predictor
+rainbow: https://www.codeclubprojects.org/en-GB/sense-hat/rainbow
+rainbow-go: https://trinket.io/python/6e4cb01c6b
+# -- Treaure hunt
+treasure: https://www.codeclubprojects.org/en-GB/sense-hat/treasure
+treasure-go: https://trinket.io/python/3f7798d32e
+# -- Weather
+weather: https://www.codeclubprojects.org/en-GB/sense-hat/weather
+weather-go: https://trinket.io/embed/python/6bdc4b7eed
 
 # Partner project links
 

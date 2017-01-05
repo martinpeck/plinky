@@ -373,6 +373,9 @@ fortune: https://www.codeclubprojects.org/en-GB/microbit/fortune-teller/
 rate: https://www.codeclubprojects.org/en-GB/microbit/rate-your-mates/
 reaction: https://www.codeclubprojects.org/en-GB/microbit/reaction/
 
+# General project links
+colours: https://trinket.io/docs/colors
+colour: https://trinket.io/docs/colors
 
 # Impact Evaluation
 ct-quiz: http://codeclub.beverwedstrijd.nl/

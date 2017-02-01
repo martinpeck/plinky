@@ -229,75 +229,75 @@ city-go: https://scratch.mit.edu/projects/113732481/#editor
 birthday: https://codeclubprojects.org/en-GB/webdev/happy-birthday/
 happy-birthday: https://codeclubprojects.org/en-GB/webdev/happy-birthday/
 happybirthday: https://codeclubprojects.org/en-GB/webdev/happy-birthday/
-web-intro: https://trinket.io/html/850a678202
-intro-go: https://trinket.io/html/850a678202
-web-card: https://trinket.io/html/90506676c9
-card-go: https://trinket.io/html/90506676c9
+web-intro: https://trinket.io/embed/html/850a678202
+intro-go: https://trinket.io/embed/html/850a678202
+web-card: https://trinket.io/embed/html/90506676c9
+card-go: https://trinket.io/embed/html/90506676c9
 # -- Happy Birhtday PL
 html-wstep: https://trinket.io/html/4f957e888f
-kartka-urodzinowa: https://trinket.io/html/0220902ffd
+kartka-urodzinowa: https://trinket.io/embed/html/0220902ffd
 # -- Tell a Story
 story: https://codeclubprojects.org/en-GB/webdev/tell-a-story/
 tell-a-story: https://codeclubprojects.org/en-GB/webdev/tell-a-story/
 tellastory: https://codeclubprojects.org/en-GB/webdev/tell-a-story/
-web-story: https://trinket.io/html/8083cfebb3
-story-go: https://trinket.io/html/8083cfebb3
+web-story: https://trinket.io/embed/html/8083cfebb3
+story-go: https://trinket.io/embed/html/8083cfebb3
 web-images: https://s3-eu-west-1.amazonaws.com/codeclub-html-images/images.html
 html-images: https://s3-eu-west-1.amazonaws.com/codeclub-html-images/images.html
 # -- Tell a Story - PL
-html-historyjka: https://trinket.io/html/c5815d0eb4
+html-historyjka: https://trinket.io/embed/html/c5815d0eb4
 html-obrazki: https://s3-eu-west-1.amazonaws.com/codeclub-html-images/images.html
 # -- Wanted!
 wanted: https://codeclubprojects.org/en-GB/webdev/wanted/
-web-wanted: https://trinket.io/html/58318bee1f
-wanted-go: https://trinket.io/html/58318bee1f
+web-wanted: https://trinket.io/embed/html/58318bee1f
+wanted-go: https://trinket.io/embed/html/58318bee1f
 # -- Wanted! - PL
-html-poszukiwany: https://trinket.io/html/aa8cd3c9f4
+html-poszukiwany: https://trinket.io/embed/html/aa8cd3c9f4
 # -- Recipe
 recipe: https://www.codeclubprojects.org/en-GB/webdev/recipe/
 # -- Mystery Letter
 letter: https://www.codeclubprojects.org/en-GB/webdev/mystery-letter/
-web-letter: https://trinket.io/html/b5fbcf112e
-letter-go: https://trinket.io/html/b5fbcf112e
+web-letter: https://trinket.io/embed/html/b5fbcf112e
+letter-go: https://trinket.io/embed/html/b5fbcf112e
 # -- Mystery Letter - PL
-html-list: https://trinket.io/html/d8baf77b3e
+html-list: https://trinket.io/embed/html/d8baf77b3e
 # -- Project Showcase
 showcase: https://www.codeclubprojects.org/en-GB/webdev/project-showcase/
-web-showcase: https://trinket.io/html/9ad31460f0
-showcase-go: https://trinket.io/html/9ad31460f0
+web-showcase: https://trinket.io/embed/html/9ad31460f0
+showcase-go: https://trinket.io/embed/html/9ad31460f0
 # -- Build a Robot
 robot: https://www.codeclubprojects.org/en-GB/webdev/build-a-robot/
-web-robot: https://trinket.io/html/b29b50e571
-robot-go: https://trinket.io/html/b29b50e571
+web-robot: https://trinket.io/embed/html/b29b50e571
+robot-go: https://trinket.io/embed/html/b29b50e571
 # -- Stickers
 stickers: https://www.codeclubprojects.org/en-GB/webdev/stickers/
-web-stickers: https://trinket.io/html/af0ea6fa35
-stickers-go: https://trinket.io/html/af0ea6fa35
+web-stickers: https://trinket.io/embed/html/af0ea6fa35
+stickers-go: https://trinket.io/embed/html/af0ea6fa35
 # -- Sunrise
 sunrise: https://www.codeclubprojects.org/en-GB/webdev/sunrise/
-web-sunrise: https://trinket.io/html/5085f92143
-sunrise-go: https://trinket.io/html/5085f92143
+web-sunrise: https://trinket.io/embed/html/5085f92143
+sunrise-go: https://trinket.io/embed/html/5085f92143
 # -- Linked Rooms
 rooms: https://www.codeclubprojects.org/en-GB/webdev/linked-rooms/
-web-rooms: https://trinket.io/html/ef608f0733
-rooms-go: https://trinket.io/html/ef608f0733
+web-rooms: https://trinket.io/embed/html/ef608f0733
+rooms-go: https://trinket.io/embed/html/ef608f0733
 # -- Magazine
 magazine: https://www.codeclubprojects.org/en-GB/webdev/magazine/
-web-magazine: https://trinket.io/html/cef5e64bc0
-magazine-go: https://trinket.io/html/cef5e64bc0
+web-magazine: https://trinket.io/embed/html/cef5e64bc0
+magazine-go: https://trinket.io/embed/html/cef5e64bc0
 # -- Pixel Art
 pixel: https://www.codeclubprojects.org/en-GB/webdev/pixel-art/
-web-pixel: https://trinket.io/html/705f264f59
-pixel-go: https://trinket.io/html/705f264f59
+web-pixel: https://trinket.io/embed/html/705f264f59
+pixel-go: https://trinket.io/embed/html/705f264f59
 # -- Other
-trinket-template: https://trinket.io/html/ef4c882ae6
-html-template: https://trinket.io/html/ef4c882ae6
-trinket-blank: https://trinket.io/html/abfef6a560
-html-blank: https://trinket.io/html/abfef6a560
-web-jokes: https://trinket.io/html/526c56ff96
-jokes-go: https://trinket.io/html/526c56ff96
-web-faces: https://trinket.io/html/00736c0e18
-faces-go: https://trinket.io/html/00736c0e18
+trinket-template: https://trinket.io/embed/html/ef4c882ae6
+html-template: https://trinket.io/embed/html/ef4c882ae6
+trinket-blank: https://trinket.io/embed/html/abfef6a560
+html-blank: https://trinket.io/embed/html/abfef6a560
+web-jokes: https://trinket.io/embed/html/526c56ff96
+jokes-go: https://trinket.io/embed/html/526c56ff96
+web-faces: https://trinket.io/embed/html/00736c0e18
+faces-go: https://trinket.io/embed/html/00736c0e18
 web-colours: http://colours.neilorangepeel.com/
 colour-names: http://colours.neilorangepeel.com/
 colours-go: http://colours.neilorangepeel.com/
@@ -305,7 +305,7 @@ web-fonts: https://www.google.com/fonts
 
 
 # Python project links
-python-new: https://trinket.io/python/33e5c3b81b
+python-new: https://trinket.io/embed/python/33e5c3b81b
 # -- ASCII Art
 ascii: https://codeclubprojects.org/en-GB/python/ascii-art/
 # -- About Me
@@ -313,7 +313,7 @@ about-me: https://codeclubprojects.org/en-GB/python/about-me/
 # -- Rock, Paper, Scissors
 rps: https://codeclubprojects.org/en-GB/python/rock-paper-scissors/
 rock-paper-scissors: https://codeclubprojects.org/en-GB/python/rock-paper-scissors/
-rps-go: https://trinket.io/python/de918c4f5d
+rps-go: https://trinket.io/embed/python/de918c4f5d
 # -- Turtle Race
 turtle-race: https://codeclubprojects.org/en-GB/python/turtle-race/
 trinket-colours: https://trinket.io/docs/colors
@@ -325,34 +325,34 @@ colour-picker: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color
 messages: https://codeclubprojects.org/en-GB/python/secret-messages/
 # -- Modern Art
 modern: https://codeclubprojects.org/en-GB/python/modern-art/
-modern-go: https://trinket.io/python/3549b126c4
+modern-go: https://trinket.io/embed/python/3549b126c4
 # -- Popular Pets
 popular: https://codeclubprojects.org/en-GB/python/popular-pets/
 popular-pets: https://codeclubprojects.org/en-GB/python/popular-pets/
 # -- RPG
 rpg: https://codeclubprojects.org/en-GB/python/rpg/
-rpg-go: https://trinket.io/python/09fa4faae7
+rpg-go: https://trinket.io/embed/python/09fa4faae7
 # -- Where is the ISS?
 iss: https://codeclubprojects.org/en-GB/python/iss/
-iss-go: https://trinket.io/python/649a766f84
+iss-go: https://trinket.io/embed/python/649a766f84
 # -- Robo-Trumps
 robo-trumps: https://codeclubprojects.org/en-GB/python/robo-trumps/
-trumps-go: https://trinket.io/python/e32251230a
+trumps-go: https://trinket.io/embed/python/e32251230a
 # -- CodeCraft
 codecraft: https://www.codeclubprojects.org/en-GB/python/codecraft/
-codecraft-go: https://trinket.io/python/fdd32064f8
+codecraft-go: https://trinket.io/embed/python/fdd32064f8
 
 # Sense HAT projects
 
 # -- Timer
 timer: https://www.codeclubprojects.org/en-GB/sense-hat/timer
-timer-go: https://trinket.io/python/b328848f53
+timer-go: https://trinket.io/embed/python/b328848f53
 # -- Rainbow predictor
 rainbow: https://www.codeclubprojects.org/en-GB/sense-hat/rainbow
-rainbow-go: https://trinket.io/python/6e4cb01c6b
+rainbow-go: https://trinket.io/embed/python/6e4cb01c6b
 # -- Treaure hunt
 treasure: https://www.codeclubprojects.org/en-GB/sense-hat/treasure
-treasure-go: https://trinket.io/python/3f7798d32e
+treasure-go: https://trinket.io/embed/python/3f7798d32e
 # -- Weather
 weather: https://www.codeclubprojects.org/en-GB/sense-hat/weather
 weather-go: https://trinket.io/embed/python/6bdc4b7eed

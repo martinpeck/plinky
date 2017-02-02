@@ -356,6 +356,7 @@ passwords: https://codeclubprojects.org/en-GB/python/password-generator/
 # -- Timer
 timer: https://www.codeclubprojects.org/en-GB/sense-hat/timer
 timer-go: https://trinket.io/embed/python/b328848f53
+dot-timer-go: https://trinket.io/embed/python/d01c70443b
 # -- Rainbow predictor
 rainbow: https://www.codeclubprojects.org/en-GB/sense-hat/rainbow
 rainbow-go: https://trinket.io/embed/python/6e4cb01c6b

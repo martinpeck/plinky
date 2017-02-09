@@ -3,7 +3,7 @@ default: https://codeclub.org.uk
 #club member surveys
 start-survey: http://www.codeclub.org.uk/surveys/initial-member-survey
 termly-survey: http://www.codeclub.org.uk/surveys/termly-member-survey
-jan-17: https://docs.google.com/a/codeclub.org.uk/forms/d/e/1FAIpQLSehfyvFALBeuWQ0dCzFOjrGxqZqZt2dDPEV2YflatEgkxeUiA/viewform
+feb-17: https://docs.google.com/a/codeclub.org.uk/forms/d/e/1FAIpQLSehfyvFALBeuWQ0dCzFOjrGxqZqZt2dDPEV2YflatEgkxeUiA/viewform
 
 email-sig: https://s3.amazonaws.com/codeclub-assets/public/code_club_email.png
 

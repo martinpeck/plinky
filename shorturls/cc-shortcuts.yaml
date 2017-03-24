@@ -379,12 +379,23 @@ robo: https://www.mixital.co.uk/channel/strictly-robo-dancers/
 microbit: https://www.codeclubprojects.org/en-GB/microbit/
 mb-new: https://www.microbit.co.uk/app/#create:tomwku
 mb-new-block: https://www.microbit.co.uk/app/#create:xczaux
-pxt-new: https://pxt.microbit.org/#gettingstarted
+
 
 badge: https://codeclubprojects.org/en-GB/microbit/interactive-badge/
 fortune: https://www.codeclubprojects.org/en-GB/microbit/fortune-teller/
 rate: https://www.codeclubprojects.org/en-GB/microbit/rate-your-mates/
 reaction: https://www.codeclubprojects.org/en-GB/microbit/reaction/
+frustration: https://codeclubprojects.org/en-GB/microbit/frustration/
+clock: https://codeclubprojects.org/en-GB/microbit/against-the-clock/
+
+# micro:bit PXT projects
+pxt-new: https://pxt.microbit.org/#gettingstarted
+badge-finished: https://pxt.microbit.org/#pub:90418-17495-16581-63753
+frustration-finished: https://pxt.microbit.org/#pub:71088-38400-20107-39742
+fortune-finished: https://pxt.microbit.org/#pub:18828-96734-17356-00995
+clock-finished: https://pxt.microbit.org/#pub:55342-38825-28229-57221
+rate-finished: https://pxt.microbit.org/#pub:57756-45098-79806-84952
+reaction-finished: https://pxt.microbit.org/#pub:50800-81674-84873-32898
 
 # General project links
 colours: https://trinket.io/docs/colors

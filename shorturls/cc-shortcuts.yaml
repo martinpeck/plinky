@@ -367,6 +367,9 @@ treasure-go: https://trinket.io/embed/python/3f7798d32e
 # -- Weather
 weather: https://www.codeclubprojects.org/en-GB/sense-hat/weather
 weather-go: https://trinket.io/embed/python/6bdc4b7eed
+# -- Tightrope
+tightrope: https://www.codeclubprojects.org/en-GB/sense-hat/tightrope
+tightrope-go: https://trinket.io/embed/python/f6d7c83745
 
 # Partner project links
 

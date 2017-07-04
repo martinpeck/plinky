@@ -106,6 +106,8 @@ scratch-resources: https://www.codeclubprojects.org/en-GB/resources/#scratch
 python-resources: https://www.codeclubprojects.org/en-GB/resources/#python
 html-resources: https://www.codeclubprojects.org/en-GB/resources/#webdev
 
+scratch-to-python: https://docs.google.com/document/d/1lKLt9YsoXaGDbz7LOsEKxmd-CHelqwLfq_-gYHyG-kE/edit?usp=sharing
+
 # Scratch project links
 scratch-translate: http://scratchblocks.codeclub.org.uk/translator/#script=when%20flag%20clicked%0Aforever%0A%20%20move%20(2)%20steps%0Aend&from=en&to=ru
 scr-guide: https://scratch.mit.edu/scratchr2/static/__1371843055__/pdfs/help/ScratchGetStarted_beta_draft_Jan2013.pdf

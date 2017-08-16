@@ -242,7 +242,10 @@ usernames-resources: https://scratch.mit.edu/projects/139872908/#editor
 usernames-go: https://scratch.mit.edu/projects/139872908/#editor
 # -- Binary Hero
 binary-go: https://scratch.mit.edu/projects/169974487/#editor 
-
+# -- CATS!
+cats-go: https://scratch.mit.edu/projects/171181805/#editor
+# -- Guess the Flag
+flags-go: https://scratch.mit.edu/projects/171260950/#editor
 
 # HTML & CSS project links
 

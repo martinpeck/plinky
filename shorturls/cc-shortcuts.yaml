@@ -242,10 +242,13 @@ usernames-resources: https://scratch.mit.edu/projects/139872908/#editor
 usernames-go: https://scratch.mit.edu/projects/139872908/#editor
 # -- Binary Hero
 binary-go: https://scratch.mit.edu/projects/169974487/#editor 
+binary-get: https://github.com/raspberrypilearning/binary-hero/tree/master/en/resources/binary-hero.sb2
 # -- CATS!
 cats-go: https://scratch.mit.edu/projects/171181805/#editor
+cats-get: https://github.com/raspberrypilearning/cats/tree/master/en/resources/cats.sb2
 # -- Guess the Flag
 flags-go: https://scratch.mit.edu/projects/171260950/#editor
+flags-get: https://github.com/raspberrypilearning/guess-the-flag/tree/master/en/resources/flags.sb2
 
 # HTML & CSS project links
 

@@ -251,7 +251,7 @@ cats-get: https://github.com/raspberrypilearning/cats/tree/master/en/resources/c
 flags-go: https://scratch.mit.edu/projects/171260950/#editor
 flags-get: https://github.com/raspberrypilearning/guess-the-flag/tree/master/en/resources/flags.sb2
 # -- Scratch Olympics Weightlifter
-weightlifter-go: https://scratch.mit.edu/projects/183523664/#editor
+weightlifter-go: https://scratch.mit.edu/projects/183525732/#editor
 weightlifter-get: flags-get: https://github.com/raspberrypilearning/scratch-olympics-weightlifter/tree/master/en/resources/weightlifter.sb2
 
 

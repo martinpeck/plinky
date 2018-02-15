@@ -258,6 +258,9 @@ weightlifter-get: https://github.com/raspberrypilearning/scratch-olympics-weight
 
 # HTML & CSS project links
 
+html-new:
+web-new: 
+
 # -- Happy Birthday
 birthday: https://codeclubprojects.org/en-GB/webdev/happy-birthday/
 happy-birthday: https://codeclubprojects.org/en-GB/webdev/happy-birthday/
@@ -380,6 +383,8 @@ codecraft-go: https://trinket.io/embed/python/fdd32064f8
 passwords: https://codeclubprojects.org/en-GB/python/password-generator/
 
 # Sense HAT projects
+
+sense-hat-new: https://trinket.io/embed/python/de1ab4ecf1
 
 # -- Timer
 timer: https://www.codeclubprojects.org/en-GB/sense-hat/timer

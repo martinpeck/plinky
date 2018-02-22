@@ -1,0 +1,536 @@
+default: https://codeclub.org.uk
+
+#club member surveys
+start-survey: http://www.codeclub.org.uk/surveys/initial-member-survey
+termly-survey: http://www.codeclub.org.uk/surveys/termly-member-survey
+feb-17: https://docs.google.com/a/codeclub.org.uk/forms/d/e/1FAIpQLSehfyvFALBeuWQ0dCzFOjrGxqZqZt2dDPEV2YflatEgkxeUiA/viewform
+feb-17-pdf: http://downloads.codeclub.org.uk/Code+Club+Member+Survey+February+2017.pdf
+feb-17-word: http://downloads.codeclub.org.uk/Code+Club+Member+Survey+February+2017.docx
+projects-survey: https://goo.gl/forms/yJHLMsP76ziw3H2I3
+projects-survey-pdf: http://downloads.codeclub.org.uk/projects-survey.pdf
+projects-survey-word: http://downloads.codeclub.org.uk/projects-survey.docx
+microbit-survey: https://goo.gl/forms/NlQGY4kvFiG4gvVo1
+microbit-survey-pdf: http://downloads.codeclub.org.uk/microbit-survey.pdf
+microbit-survey-word: http://downloads.codeclub.org.uk/microbit-survey.docx
+july17: https://docs.google.com/a/codeclub.org.uk/forms/d/e/1FAIpQLSevcm5g8VDy8KhENmzQ5CHJK4KJYcS1bvyiZxj5PfUvTrPqTA/viewform#start=openform
+dec-17: https://docs.google.com/forms/d/e/1FAIpQLSefd6H4FUduYbZrlqUCwHeVike6_fN68UAnULMVKrZ98TJoKw/viewform
+dec-17-pdf: http://downloads.codeclub.org.uk/Code+Club+survey-Dec-17.pdf
+
+email-sig: https://s3.amazonaws.com/codeclub-assets/public/code_club_email.png
+
+compliment: http://projects.codeclubworld.org/en-GB/09_python/06/Compliment%20Generator.html
+
+cc-contribute: https://github.com/CodeClub/curriculum_documentation/blob/master/contributing.md
+contribute: https://github.com/CodeClub/curriculum_documentation/blob/master/contributing.md
+ccp-maze2-solution: https://scratch.mit.edu/projects/66177618/#editor
+scratch-io: https://scratch.mit.edu/studios/718014/
+guidelines: https://github.com/CodeClub/curriculum_documentation/blob/master/project-guidelines.md
+
+space-resources: https://scratch.mit.edu/projects/65658138/#editor
+html-1: https://www.codeclubprojects.org/en-GB/webdev/happy-birthday/
+scratch-day: https://codeclubprojects.org/en-GB/scratch/space-junk/
+ccp-maze: https://scratch.mit.edu/projects/59724750/#editor
+ccp-maze2: https://scratch.mit.edu/projects/59724872/#editor
+ccp-maze1: https://scratch.mit.edu/projects/59724750/
+scratch-youtube: https://www.youtube.com/watch?v=-SjuiawRMU4
+1CsnmBo: https://s3-eu-west-1.amazonaws.com/codeclub-html-images/build-a-robot/robot-head.png
+test-link2: https://s3-eu-west-1.amazonaws.com/codeclub-html-images/build-a-robot
+1DnaUGq: https://s3-eu-west-1.amazonaws.com/codeclub-html-images/build-a-robot/
+py-compliment: https://codeclubprojects.org/en-GB/python/compliment-generator/
+leeds-comp: https://docs.google.com/presentation/d/1HmVmJCjPss7nvC3EnpGhSWju97V8CRBYdnpQp16cWVI/edit?usp=sharing
+scratch-dodgeball: https://scratch.mit.edu/projects/39740618/#editor
+cas-prog: http://community.computingatschool.org.uk/resources/2324
+cas-progress: http://community.computingatschool.org.uk/resources/1692
+1FsbWzR: https://scratch.mit.edu/projects/25700285/#editor
+scratch-shapes: https://scratch.mit.edu/projects/52684772/#editor
+scratch-input: https://docs.google.com/presentation/d/1Wz33_r2CGjyheTxWEKqN7f0w3pLoqBdMHEkFvvZ_WjY/edit?usp=sharing
+whack-mole: https://scratch.mit.edu/projects/50449702/#editor
+window-washer: https://scratch.mit.edu/projects/37108828/#editor
+drum-kit: https://scratch.mit.edu/projects/50313130/#editor
+keepie-uppies: https://scratch.mit.edu/projects/36966344/#editor
+draw-a-sketch: https://scratch.mit.edu/projects/36984202/#editor
+human-piano: https://scratch.mit.edu/projects/36992474/#editor
+bug-zap: https://scratch.mit.edu/projects/37780666/#editor
+banjo-hero: https://scratch.mit.edu/projects/42096394/#editor
+scr-maze: https://scratch.mit.edu/projects/25700285/
+scratch-brain-game: https://scratch.mit.edu/projects/42225768/#editor
+clapometer: https://scratch.mit.edu/projects/48271338/#editor
+times-tables-fixed: https://scratch.mit.edu/projects/48268808/#editor
+times-tables-broken: https://scratch.mit.edu/projects/48268668/#editor
+scratch-timer: https://scratch.mit.edu/projects/48266742/#editor
+times-tables-finished: https://scratch.mit.edu/projects/48262002/#editor
+times-tables: https://scratch.mit.edu/projects/48262950/#editor
+1zsZdFR: https://www.codeclub.org.uk
+CCTest1: http://codeclubworld.org
+html-images: https://s3-eu-west-1.amazonaws.com/codeclub-html-images/
+1DwfOim: https://github.com/CodeClub/CodeClubUK-Projects/
+1DEGyuS: https://github.com/CodeClub/lesson_format/issues/128#issuecomment-72816308
+cc-docs: https://github.com/CodeClub/curriculum_documentation/blob/master/README.md
+18CpLPy: http://blog.codeclub.org.uk/2015/01/27/is-your-club-registered/
+1yHMUJI: https://codeclubprojects.org/en-GB/scratch/chatbot/
+1IpKovZ: https://scratch.mit.edu/projects/38160182/#editor
+1IpKjrW: https://github.com/CodeClubRik
+scratch-snowball: https://codeclubprojects.org/en-GB/scratch/snowball-fight/
+
+pyth-loop: https://codeclubprojects.org/en-GB/python/turtle-power/
+py-quiz: https://codeclubprojects.org/en-GB/python/quiz/
+pyth-var: https://codeclubprojects.org/en-GB/python/the-year-2025/
+1xs98wM: https://www.codeclub.org.uk/working-safely-with-children
+1oTpjy5: https://s3.amazonaws.com/codeclub-assets/public/Complaints+Procedure.pdf
+1w00Mez: https://s3.amazonaws.com/codeclub-assets/public/Code+Club+Terms+of+Service+v9.pdf
+cc-pres: http://codeclub-assets.s3.amazonaws.com/public/CodeClub-Presentations.zip
+g-gr: https://groups.google.com/forum/?fromgroups#!forum/code-club-uk-community
+1xpbVa2: https://github.com/CodeClub/scratch-curriculum/blob/master/CONTRIBUTING.md
+beta-fb: https://docs.google.com/forms/d/1eMCfpYe3v7eYu5M8rSqLKlmq7cczLCLHx66csgyUyVU/viewform?usp=send_form
+get-py: https://www.python.org/download/releases/3.2/#download
+1pjbSq0: https://codeclubprojects.org/en-GB/09_python/
+py-if: https://codeclubprojects.org/en-GB/python/quiz/
+py-loop: https://codeclubprojects.org/en-GB/python/turtle-power/
+py-var: https://codeclubprojects.org/python/the-year-2025/
+1DiOdAB: https://codeclubprojects.org/en-GB/python/
+py-seq: https://codeclubprojects.org/en-GB/python/ascii-art/
+1lPMyg3: https://docs.google.com/forms/d/1NrlYr33CVWrqUntuKv3x3UNJvqC-FfmKy4d0JQ6SPh4/viewform?usp=send_form
+1uH5vRY: https://docs.google.com/forms/d/1HUqNwS-tCeL9-1E9nKo7KsdCn0e6CAtu3oBI23JG4GY/viewform?usp=send_form
+ZfEP0P: https://www.youtube.com/watch?v=VhS-M1i5H4g&list=PL3qxdM6ba83QwHoPyv0Vrxrmf4C1Je68W&index=2
+1rUJQsw: https://www.youtube.com/watch?v=-v3B7gCwg48&list=PL3qxdM6ba83QwHoPyv0Vrxrmf4C1Je68W&index=1
+1onNALZ: http://blog.codeclub.org.uk/2014/09/08/superstars-in-scotland/
+1lT8aIZ: https://github.com/benedfit/codeclub-poster
+
+# Teacher Training
+
+chatbot-bug: https://scratch.mit.edu/projects/77432210/#editor
+
+scratch-intro: https://codeclubprojects.org/en-GB/resources/#scratch
+html-intro: https://codeclubprojects.org/en-GB/resources/#webdev
+python-intro: https://codeclubprojects.org/en-GB/resources/#python
+
+python-offline: https://www.python.org/download/releases/3.2/#download
+scratch-resources: https://www.codeclubprojects.org/en-GB/resources/#scratch
+python-resources: https://www.codeclubprojects.org/en-GB/resources/#python
+html-resources: https://www.codeclubprojects.org/en-GB/resources/#webdev
+
+scratch-to-python: https://docs.google.com/document/d/1lKLt9YsoXaGDbz7LOsEKxmd-CHelqwLfq_-gYHyG-kE/edit?usp=sharing
+
+# Scratch project links
+scratch-translate: http://scratchblocks.codeclub.org.uk/translator/#script=when%20flag%20clicked%0Aforever%0A%20%20move%20(2)%20steps%0Aend&from=en&to=ru
+scr-guide: https://scratch.mit.edu/scratchr2/static/__1371843055__/pdfs/help/ScratchGetStarted_beta_draft_Jan2013.pdf
+scratch-guide: https://scratch.mit.edu/scratchr2/static/__1371843055__/pdfs/help/ScratchGetStarted_beta_draft_Jan2013.pdf
+scr-cards: https://scratch.mit.edu/help/cards/
+scratch-cards: https://scratch.mit.edu/help/cards/
+scr-off: https://scratch.mit.edu/scratch2download/
+scratch-offline: https://scratch.mit.edu/scratch2download/
+scratch-off: https://scratch.mit.edu/scratch2download/
+scr-on: https://scratch.mit.edu
+scratch-online: https://scratch.mit.edu
+scratch-on: https://scratch.mit.edu
+scratch-new: https://scratch.mit.edu/projects/editor/
+# -- Rock Band
+rock-band: https://codeclubprojects.org/en-GB/scratch/rock-band/
+rockband: https://codeclubprojects.org/en-GB/scratch/rock-band/
+sound-music: https://codeclubprojects.org/en-GB/scratch/rock-band/
+# -- Lost in Space
+space: https://codeclubprojects.org/en-GB/scratch/lost-in-space/
+lostinspace: https://codeclubprojects.org/en-GB/scratch/lost-in-space/
+lost-in-space: https://codeclubprojects.org/en-GB/scratch/lost-in-space/
+# -- ChatBot
+chatbot: https://codeclubprojects.org/en-GB/scratch/chatbot/
+chat-bot: https://codeclubprojects.org/en-GB/scratch/chatbot/
+# -- Ghostbusters
+ghost: https://www.codeclubprojects.org/en-GB/scratch/ghostbusters/
+ghostbusters: https://projects.raspberrypi.org/en/projects/ghostbusters
+# -- Paint Box
+paint: https://codeclubprojects.org/en-GB/scratch/paint-box/
+paintbox: https://codeclubprojects.org/en-GB/scratch/paint-box/
+paint-box: https://codeclubprojects.org/en-GB/scratch/paint-box/
+paint-resources: https://scratch.mit.edu/projects/63473670/#editor
+paintbox-resources: https://scratch.mit.edu/projects/63473670/#editor
+paint-go: https://scratch.mit.edu/projects/63473670/#editor
+paintbox-go: https://scratch.mit.edu/projects/63473670/#editor
+paint-get: https://codeclubprojects.org/en-GB/scratch/paint-box/project-resources/PaintBoxResources.sb2
+paintbox-get: https://codeclubprojects.org/en-GB/scratch/paint-box/project-resources/PaintBoxResources.sb2
+# -- Boat Race
+boat: https://codeclubprojects.org/en-GB/scratch/boat-race/
+boat-race: https://codeclubprojects.org/en-GB/scratch/boat-race/
+boatrace: https://codeclubprojects.org/en-GB/scratch/boat-race/
+boat-resources: https://scratch.mit.edu/projects/63958014/#editor
+boatrace-resources: https://scratch.mit.edu/projects/63958014/#editor
+boat-go: https://scratch.mit.edu/projects/63958014/#editor
+boatrace-go: https://scratch.mit.edu/projects/63958014/#editor
+boat-get: https://codeclubprojects.org/en-GB/scratch/boat-race/project-resources/BoatRaceResources.sb2
+boatrace-get: https://codeclubprojects.org/en-GB/scratch/boat-race/project-resources/BoatRaceResources.sb2
+# -- Dodgeball
+dodge: https://codeclubprojects.org/en-GB/scratch/dodgeball/
+dodgeball: https://codeclubprojects.org/en-GB/scratch/
+dodge-resources: https://scratch.mit.edu/projects/40065008/#editor
+dodgeball-resources: https://scratch.mit.edu/projects/40065008/#editor
+dodge-go: https://scratch.mit.edu/projects/40065008/#editor
+dodgeball-go: https://scratch.mit.edu/projects/40065008/#editor
+dodge-get: https://codeclubprojects.org/en-GB/scratch/dodgeball/project-resources/DodgeballResources.sb2
+dodgeball-get: https://codeclubprojects.org/en-GB/scratch/dodgeball/project-resources/DodgeballResources.sb2
+# -- Catch the Dots
+dots: https://codeclubprojects.org/en-GB/scratch/catch-the-dots/
+catch-the-dots: https://codeclubprojects.org/en-GB/scratch/catch-the-dots/
+catchthedots: https://codeclubprojects.org/en-GB/scratch/catch-the-dots/
+dots-resources: https://scratch.mit.edu/projects/45264192/#editor
+dots-go: https://scratch.mit.edu/projects/45264192/#editor
+dots-get: https://codeclubprojects.org/en-GB/scratch/catch-the-dots/project-resources/CatchTheDotsResources.sb2
+# -- Create Your Own World
+world: https://codeclubprojects.org/en-GB/scratch/create-your-own-world/
+create-your-own-world: https://codeclubprojects.org/en-GB/scratch/create-your-own-world/
+createyourownworld: https://codeclubprojects.org/en-GB/scratch/create-your-own-world/
+world-resources: https://scratch.mit.edu/projects/37836116/#editor
+world-go: https://scratch.mit.edu/projects/37836116/#editor
+world-get: https://codeclubprojects.org/en-GB/scratch/create-your-own-world/project-resources/CreateYourOwnWorldResources.sb2
+# -- Other
+balloons: https://codeclubprojects.org/en-GB/scratch/balloons/
+balloons-game: https://codeclubprojects.org/en-GB/scratch/balloons/
+space-animation: https://codeclubprojects.org/en-GB/scratch/lost-in-space/
+clone-wars: https://www.codeclubprojects.org/en-GB/scratch/clone-wars/
+space-junk: https://www.codeclubprojects.org/en-GB/scratch/space-junk/
+snowball-resources: https://scratch.mit.edu/projects/37835434/#editor
+snowball-go: https://scratch.mit.edu/projects/37835434/#editor
+snowball-get: https://codeclubprojects.org/en-GB/scratch/snowball-fight/project-resources/SnowballFightResources.sb2
+jazzy-go: https://scratch.mit.edu/projects/181128260/#editor
+# -- Ada's Poetry Generator
+ada: https://codeclubprojects.org/en-GB/scratch/poetry-generator/
+poetry: https://codeclubprojects.org/en-GB/scratch/poetry-generator/
+poetry-generator: https://codeclubprojects.org/en-GB/scratch/poetry-generator/
+poetry-resources: https://scratch.mit.edu/projects/78692754/#editor
+poetry-go: https://scratch.mit.edu/projects/78692754/#editor
+ada-go: https://scratch.mit.edu/projects/78692754/#editor
+poetry-get: https://codeclubprojects.org/en-GB/scratch/poetry-generator/project-resources/PoetryGeneratorResources.sb2
+ada-get: https://codeclubprojects.org/en-GB/scratch/poetry-generator/project-resources/PoetryGeneratorResources.sb2 
+
+# -- Synchronised Swimming
+swim: https://codeclubprojects.org/en-GB/scratch/synchronised-swimming/
+swimming: https://codeclubprojects.org/en-GB/scratch/synchronised-swimming/
+synchronised-swimming: https://codeclubprojects.org/en-GB/scratch/synchronised-swimming/
+# -- Sprint
+sprint: https://codeclubprojects.org/en-GB/scratch/sprint/
+sprint-resources: https://scratch.mit.edu/projects/114953272/#editor
+# -- Archery
+archery: https://codeclubprojects.org/en-GB/scratch/archery/
+archery-resources: https://scratch.mit.edu/projects/114984085/#editor
+# -- Space Age
+space-age: https://codeclubprojects.org/en-GB/space-mission/space-age/
+space-age-resources: https://scratch.mit.edu/projects/89748886/#editor
+# -- Space Quiz
+space-quiz: https://codeclubprojects.org/en-GB/space-mission/space-quiz/
+space-quiz-resources: https://scratch.mit.edu/projects/88534923/#editor
+space-quiz-go: https://scratch.mit.edu/projects/88534923/#editor
+spacequiz-go: https://scratch.mit.edu/projects/88534923/#editor
+# -- Your Body in Space Quiz
+your-body: https://codeclubprojects.org/en-GB/space-mission/space-body-quiz/
+body-go: https://scratch.mit.edu/projects/135910010/#editor
+# -- Toy Tech
+toys: https://codeclubprojects.org/en-GB/scratch/tech-toys/
+toys-resources: https://scratch.mit.edu/projects/109832775/#editor
+toys-go: https://scratch.mit.edu/projects/109832775/#editor
+toys-studio: https://scratch.mit.edu/studios/3592136/
+toys-done: http://scratch.mit.edu/projects/109510044/#editor
+# -- Beat the Goalie
+goalie: https://codeclubprojects.org/en-GB/scratch/beat-the-goalie/
+goalie-resources: https://scratch.mit.edu/projects/109833197/#editor
+goalie-go: https://scratch.mit.edu/projects/109833197/#editor
+# -- Green Your City
+city: https://codeclubprojects.org/en-GB/scratch/green-your-city/
+city-resources: https://scratch.mit.edu/projects/113732481/#editor
+city-go: https://scratch.mit.edu/projects/113732481/#editor
+# --- Username Generator
+username: https://codeclubprojects.org/en-GB/scratch/username-generator/
+username-resources: https://scratch.mit.edu/projects/139872908/#editor
+username-go: https://scratch.mit.edu/projects/139872908/#editor
+usernames: https://codeclubprojects.org/en-GB/scratch/username-generator/
+usernames-resources: https://scratch.mit.edu/projects/139872908/#editor
+usernames-go: https://scratch.mit.edu/projects/139872908/#editor
+# -- Binary Hero
+binary-go: https://scratch.mit.edu/projects/169974487/#editor 
+binary-get: https://github.com/raspberrypilearning/binary-hero/tree/master/en/resources/binary-hero.sb2
+# -- CATS!
+cats-go: https://scratch.mit.edu/projects/171181805/#editor
+cats-get: https://github.com/raspberrypilearning/cats/tree/master/en/resources/cats.sb2
+# -- Guess the Flag
+flags-go: https://scratch.mit.edu/projects/171260950/#editor
+flags-get: https://github.com/raspberrypilearning/guess-the-flag/tree/master/en/resources/flags.sb2
+# -- Scratch Olympics Weightlifter
+weightlifter-go: https://scratch.mit.edu/projects/183525732/#editor
+weightlifter-get: https://github.com/raspberrypilearning/scratch-olympics-weightlifter/tree/master/en/resources/weightlifter.sb2
+
+# HTML & CSS project links
+
+# -- Happy Birthday
+birthday: https://codeclubprojects.org/en-GB/webdev/happy-birthday/
+happy-birthday: https://codeclubprojects.org/en-GB/webdev/happy-birthday/
+happybirthday: https://codeclubprojects.org/en-GB/webdev/happy-birthday/
+web-intro: https://trinket.io/embed/html/850a678202
+intro-go: https://trinket.io/embed/html/850a678202
+web-card: https://trinket.io/embed/html/90506676c9
+card-go: https://trinket.io/embed/html/90506676c9
+# -- Happy Birhtday PL
+html-wstep: https://trinket.io/html/4f957e888f
+kartka-urodzinowa: https://trinket.io/embed/html/0220902ffd
+# -- Tell a Story
+story: https://codeclubprojects.org/en-GB/webdev/tell-a-story/
+tell-a-story: https://codeclubprojects.org/en-GB/webdev/tell-a-story/
+tellastory: https://codeclubprojects.org/en-GB/webdev/tell-a-story/
+web-story: https://trinket.io/embed/html/8083cfebb3
+story-go: https://trinket.io/embed/html/8083cfebb3
+web-images: https://s3-eu-west-1.amazonaws.com/codeclub-html-images/images.html
+html-images: https://s3-eu-west-1.amazonaws.com/codeclub-html-images/images.html
+# -- Tell a Story - PL
+html-historyjka: https://trinket.io/embed/html/c5815d0eb4
+html-obrazki: https://s3-eu-west-1.amazonaws.com/codeclub-html-images/images.html
+# -- Wanted!
+wanted: https://codeclubprojects.org/en-GB/webdev/wanted/
+web-wanted: https://trinket.io/embed/html/58318bee1f
+wanted-go: https://trinket.io/embed/html/58318bee1f
+# -- Wanted! - PL
+html-poszukiwany: https://trinket.io/embed/html/aa8cd3c9f4
+# -- Recipe
+recipe: https://www.codeclubprojects.org/en-GB/webdev/recipe/
+# -- Mystery Letter
+letter: https://www.codeclubprojects.org/en-GB/webdev/mystery-letter/
+web-letter: https://trinket.io/embed/html/b5fbcf112e
+letter-go: https://trinket.io/embed/html/b5fbcf112e
+# -- Mystery Letter - PL
+html-list: https://trinket.io/embed/html/d8baf77b3e
+# -- Project Showcase
+showcase: https://www.codeclubprojects.org/en-GB/webdev/project-showcase/
+web-showcase: https://trinket.io/embed/html/9ad31460f0
+showcase-go: https://trinket.io/embed/html/9ad31460f0
+# -- Build a Robot
+robot: https://www.codeclubprojects.org/en-GB/webdev/build-a-robot/
+web-robot: https://trinket.io/embed/html/b29b50e571
+robot-go: https://trinket.io/embed/html/b29b50e571
+# -- Stickers
+stickers: https://www.codeclubprojects.org/en-GB/webdev/stickers/
+web-stickers: https://trinket.io/embed/html/af0ea6fa35
+stickers-go: https://trinket.io/embed/html/af0ea6fa35
+# -- Sunrise
+sunrise: https://www.codeclubprojects.org/en-GB/webdev/sunrise/
+web-sunrise: https://trinket.io/embed/html/5085f92143
+sunrise-go: https://trinket.io/embed/html/5085f92143
+# -- Linked Rooms
+rooms: https://www.codeclubprojects.org/en-GB/webdev/linked-rooms/
+web-rooms: https://trinket.io/embed/html/ef608f0733
+rooms-go: https://trinket.io/embed/html/ef608f0733
+# -- Magazine
+magazine: https://www.codeclubprojects.org/en-GB/webdev/magazine/
+web-magazine: https://trinket.io/embed/html/cef5e64bc0
+magazine-go: https://trinket.io/embed/html/cef5e64bc0
+# -- Pixel Art
+pixel: https://www.codeclubprojects.org/en-GB/webdev/pixel-art/
+web-pixel: https://trinket.io/embed/html/705f264f59
+pixel-go: https://trinket.io/embed/html/705f264f59
+# -- Other
+trinket-template: https://trinket.io/embed/html/ef4c882ae6
+html-template: https://trinket.io/embed/html/ef4c882ae6
+trinket-blank: https://trinket.io/embed/html/abfef6a560
+html-blank: https://trinket.io/embed/html/abfef6a560
+web-jokes: https://trinket.io/embed/html/526c56ff96
+jokes-go: https://trinket.io/embed/html/526c56ff96
+web-faces: https://trinket.io/embed/html/00736c0e18
+faces-go: https://trinket.io/embed/html/00736c0e18
+web-colours: http://colours.neilorangepeel.com/
+colour-names: http://colours.neilorangepeel.com/
+colours-go: http://colours.neilorangepeel.com/
+web-fonts: https://www.google.com/fonts
+
+
+# Python project links
+python-new: https://trinket.io/embed/python/33e5c3b81b
+# -- ASCII Art
+ascii: https://codeclubprojects.org/en-GB/python/ascii-art/
+# -- About Me
+about-me: https://codeclubprojects.org/en-GB/python/about-me/
+# -- Rock, Paper, Scissors
+rps: https://codeclubprojects.org/en-GB/python/rock-paper-scissors/
+rock-paper-scissors: https://codeclubprojects.org/en-GB/python/rock-paper-scissors/
+rps-go: https://trinket.io/embed/python/de918c4f5d
+# -- Turtle Race
+turtle-race: https://codeclubprojects.org/en-GB/python/turtle-race/
+trinket-colours: https://trinket.io/docs/colors
+# -- Team Chooser
+# -- Colourful Creations
+colourful: https://codeclubprojects.org/en-GB/python/colourful-creations/
+colour-picker: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool
+# -- Secret Messages
+messages: https://codeclubprojects.org/en-GB/python/secret-messages/
+wheel: https://trinket.io/embed/python/e2707484ec
+cipher-wheel: https://trinket.io/embed/python/e2707484ec
+# -- Modern Art
+modern: https://codeclubprojects.org/en-GB/python/modern-art/
+modern-go: https://trinket.io/embed/python/3549b126c4
+# -- Popular Pets
+popular: https://codeclubprojects.org/en-GB/python/popular-pets/
+popular-pets: https://codeclubprojects.org/en-GB/python/popular-pets/
+# -- RPG
+rpg: https://codeclubprojects.org/en-GB/python/rpg/
+rpg-go: https://trinket.io/embed/python/09fa4faae7
+# -- Where is the ISS?
+iss: https://codeclubprojects.org/en-GB/python/iss/
+iss-go: https://trinket.io/embed/python/649a766f84
+# -- Robo-Trumps
+robo-trumps: https://codeclubprojects.org/en-GB/python/robo-trumps/
+trumps-go: https://trinket.io/embed/python/e32251230a
+# -- CodeCraft
+codecraft: https://www.codeclubprojects.org/en-GB/python/codecraft/
+codecraft-go: https://trinket.io/embed/python/fdd32064f8
+# -- Password Generator
+passwords: https://codeclubprojects.org/en-GB/python/password-generator/
+
+# Sense HAT projects
+
+sense-hat-new: https://trinket.io/embed/python/de1ab4ecf1
+
+# -- Timer
+timer: https://www.codeclubprojects.org/en-GB/sense-hat/timer
+timer-go: https://trinket.io/embed/python/b328848f53
+dot-timer-go: https://trinket.io/embed/python/d01c70443b
+# -- Rainbow predictor
+rainbow: https://www.codeclubprojects.org/en-GB/sense-hat/rainbow
+rainbow-go: https://trinket.io/embed/python/6e4cb01c6b
+# -- Treaure hunt
+treasure: https://www.codeclubprojects.org/en-GB/sense-hat/treasure
+treasure-go: https://trinket.io/embed/python/3f7798d32e
+# -- Weather
+weather: https://www.codeclubprojects.org/en-GB/sense-hat/weather
+weather-go: https://trinket.io/embed/python/6bdc4b7eed
+# -- Tightrope
+tightrope: https://www.codeclubprojects.org/en-GB/sense-hat/tightrope
+tightrope-go: https://trinket.io/embed/python/bdcee3d10e
+# -- Compass Maze
+compass: https://www.codeclubprojects.org/en-GB/sense-hat/compass-maze
+compass-go: https://trinket.io/embed/python/e13bde8f93
+
+# Sonic Pi Projects
+sonic-pi-samples: https://sonicpisamples.100yen.co.uk/
+
+# Partner project links
+
+codekingdoms: https://codeclubprojects.org/en-GB/code-kingdoms/
+diy-kit: https://www.techwillsaveus.com/shop/diy-kits/diy-gamer-kit-arduino/
+robo: https://www.mixital.co.uk/channel/strictly-robo-dancers/
+
+# micro:bit test projects
+
+microbit: https://www.codeclubprojects.org/en-GB/microbit/
+mb-new: https://www.microbit.co.uk/app/#create:tomwku
+mb-new-block: https://www.microbit.co.uk/app/#create:xczaux
+
+
+badge: https://codeclubprojects.org/en-GB/microbit/interactive-badge/
+fortune: https://www.codeclubprojects.org/en-GB/microbit/fortune-teller/
+rate: https://www.codeclubprojects.org/en-GB/microbit/rate-your-mates/
+reaction: https://www.codeclubprojects.org/en-GB/microbit/reaction/
+frustration: https://codeclubprojects.org/en-GB/microbit/frustration/
+clock: https://codeclubprojects.org/en-GB/microbit/against-the-clock/
+
+# micro:bit MakeCode PXT projects
+pxt-new: https://makecode.microbit.org/#gettingstarted
+makecode-new: https://makecode.microbit.org/#gettingstarted
+badge-finished: https://makecode.microbit.org/#pub:90418-17495-16581-63753
+frustration-finished: https://makecode.microbit.org/#pub:71088-38400-20107-39742
+fortune-finished: https://makecode.microbit.org/#pub:18828-96734-17356-00995
+clock-finished: https://makecode.microbit.org/#pub:55342-38825-28229-57221
+rate-finished: https://makecode.microbit.org/#pub:57756-45098-79806-84952
+reaction-finished: https://makecode.microbit.org/#pub:50800-81674-84873-32898
+
+# General project links
+colours: https://trinket.io/docs/colors
+colour: https://trinket.io/docs/colors
+plex-media: https://s3.eu-west-2.amazonaws.com/static.raspberrypi.org/files/magpi/tutorial-plex/rpi-plex-media.tgz
+
+# Impact Evaluation
+ct-quiz: http://codeclub.beverwedstrijd.nl/
+#ct-test: http://uk.beverwedstrijd.nl/index.php?action=user_competitions
+code-quiz: https://www.surveymonkey.com/s/CodingQuiz
+
+# CCW.org
+ccwreg: https://codeclubworld.org/#register
+
+# Posters
+maze: https://scratch.mit.edu/projects/91503230/#editor
+poster: https://www.codeclub.org.uk/start-a-club/poster
+food: https://scratch.mit.edu/projects/57363466/#editor
+quiz: https://scratch.mit.edu/projects/97265511/#editor
+shapes: https://scratch.mit.edu/projects/97273769/#editor
+animation: https://scratch.mit.edu/projects/98775971/#editor
+webcam: https://scratch.mit.edu/projects/118065545/#editor
+
+# Corporate Partners
+lloyds: https://www.codeclub.org.uk/start-a-club/volunteers/lloyds
+bloomberg: https://www.codeclub.org.uk/start-a-club/volunteers/bloomberg
+kpmg: https://www.codeclub.org.uk/start-a-club/volunteers/kpmg
+arm: https://www.codeclub.org.uk/start-a-club/volunteers/arm
+amex: https://www.codeclub.org.uk/start-a-club/volunteers/amex
+skybet: https://www.codeclub.org.uk/start-a-club/volunteers/skybet
+aston: https://www.codeclub.org.uk/start-a-club/volunteers/aston-university
+lendlease: https://www.codeclub.org.uk/start-a-club/volunteers/lend-lease
+kainos: https://www.codeclub.org.uk/start-a-club/volunteers/kainos
+ulster: https://www.codeclub.org.uk/start-a-club/volunteers/ulster-university
+fujitsu: https://www.codeclub.org.uk/start-a-club/volunteers/fujitsu
+coventry: https://www.codeclub.org.uk/start-a-club/volunteers/coventry-university
+solihull: https://www.codeclub.org.uk/start-a-club/volunteers/solihull-college
+aws: https://www.codeclub.org.uk/start-a-club/volunteers/aws
+shell: https://www.codeclub.org.uk/start-a-club/volunteers/shell
+ambassadors: https://www.codeclub.org.uk/start-a-club/volunteers
+tcc: https://www.codeclub.org.uk/start-a-club
+southampton: https://www.codeclub.org.uk/start-a-club/volunteers/southampton
+STEMAmbassadors: https://www.codeclub.org.uk/start-a-club/volunteers/STEMAmbassadors
+
+#Debugging Workshop Links
+done-scratch: https://docs.google.com/presentation/d/1cKlKpyja-iE-Yys64HZZpGQldKEmUqbjARiWtUYlSHQ/edit?usp=sharing
+computhinks: https://docs.google.com/presentation/d/1oNgqRjFOWzkvrN92zrPKH1tBRlnlthyoOsXiF-5S8rw/edit?usp=sharing
+practical-debugging: https://docs.google.com/a/codeclub.org.uk/presentation/d/1gy4J7olOAxYk51-A3vuuVk3oGQCdM4LvNeCeEnVpsqY/edit?usp=sharing
+debug-boat: https://scratch.mit.edu/projects/110896889/#editor
+fixed-boat: https://scratch.mit.edu/projects/113064416/#editor
+debug-chatbot: https://scratch.mit.edu/projects/110900434/#editor
+fixed-chatbot: https://scratch.mit.edu/projects/113064434/#editor
+debug-mode: https://scratch.mit.edu/projects/110922317/#editor
+debug-offline: https://drive.google.com/folderview?id=0B4zTzKLdF55gRXctM2FDZDZ2YTA&usp=sharing
+debug-dodgeball: https://scratch.mit.edu/projects/117649653/#editor
+
+#GPIO Worlshop Links
+physical-scratch: https://docs.google.com/presentation/d/1O7qOl-xqojzRBre7Z19jpsU9ky1uLe2jZYV6cwYDU_s/edit?usp=sharing
+
+# General CC links
+star-clubs: https://www.codeclub.org.uk/star-clubs/visit
+teachers: https://www.codeclub.org.uk/start-a-club/volunteers/teachers
+update: https://docs.google.com/a/codeclub.org.uk/forms/d/e/1FAIpQLSfDExDVrU-hFoNNgZelczpppMl1vLBtnVBD36GLLy8omQQyzg/viewform?c=0&w=1
+jellyfish: https://www.codeclub.org.uk/start-a-club/volunteers/jellyfish
+bestival: https://goo.gl/forms/bqri2wn9GK1xAkme2
+pivotal: https://www.codeclub.org.uk/start-a-club/volunteers/pivotal
+students: https://www.codeclub.org.uk/start-a-club/volunteers/student-volunteers
+strabane: https://www.eventbrite.co.uk/e/volunteer-training-strabane-tickets-27408221729
+find-out-more: https://goo.gl/forms/UUskk1zCna1c7auE2
+host: https://www.codeclub.org.uk/register/host
+volunteer: https://www.codeclub.org.uk/register/volunteer
+north-east: https://www.codeclub.org.uk/start-a-club/north-east
+checklist: https://training.codeclub.org.uk/downloads/Checklist.pdf
+library-guide: http://downloads.codeclub.org.uk/Library+instructions+guide.pdf
+forum: https://groups.google.com/forum/?fromgroups#!forum/code-club-uk-community
+request: https://www.codeclubpro.org/request_training
+toys-certificate: https://s3-eu-west-1.amazonaws.com/downloads.codeclub.org.uk/TechToysCertificate.pdf
+dbs-waiver: https://docs.google.com/a/codeclub.org.uk/forms/d/e/1FAIpQLSdlG8hNUVxjLSl15JjTClI7_S5OsluDUtDAk9bGQOtNYqZ9Qg/viewform
+international: https://www.codeclubworld.org/
+volunteer-role: http://downloads.codeclub.org.uk/Volunteer+Role.pdf 
+register: https://www.codeclub.org.uk/start-a-club
+
+terms: https://www.codeclub.org.uk/terms-and-conditions 
+safeguarding: https://www.codeclub.org.uk/working-safely-with-children
+events: https://www.codeclub.org.uk/communities-and-events
+endofyearpacks: https://goo.gl/forms/6Lh8CWhqGmJaw8H62
+blackrock: https://www.codeclub.org.uk/start-a-club/volunteers/blackrock
+secondary-schools: https://www.codeclub.org.uk/start-a-club/teachers
+keep-coding: https://www.codeclub.org.uk/keep-coding-over-the-summer
+flyer: https://s3-eu-west-1.amazonaws.com/downloads.codeclub.org.uk/CodeClubflyer.pdf
+help: http://help.codeclub.org.uk/en/support/home
+welcomepack: https://docs.google.com/forms/d/e/1FAIpQLScL_NlmVSOVVFtYDJPXprnIFYjH_dWxVp4pYg4STHCQFL93ag/viewform
+star-club-visit: https://docs.google.com/a/codeclub.org.uk/forms/d/e/1FAIpQLSfO2MztaRAAf3LLGgjy7KKeiWYYuN0BX1An-BV77-2MpBjNoA/viewform
+uel: https://www.codeclub.org.uk/register/volunteer
+projects: https://projects.raspberrypi.org/en/codeclub
+entryform: https://raspberrypifoundation.typeform.com/to/wu6ar7
+club-visit-form: https://goo.gl/forms/PVOiRJpHwWqzXa8w2
+entryformguide: http://help.codeclub.org.uk/en/support/solutions/articles/19000077849-how-to-share-projects-when-entering-code-club-competitions
+

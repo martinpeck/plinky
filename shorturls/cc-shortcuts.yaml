@@ -430,14 +430,14 @@ frustration: https://codeclubprojects.org/en-GB/microbit/frustration/
 clock: https://codeclubprojects.org/en-GB/microbit/against-the-clock/
 
 # micro:bit MakeCode PXT projects
-pxt-new: https://makecode.microbit.org/#gettingstarted
-makecode-new: https://makecode.microbit.org/#gettingstarted
-badge-finished: https://makecode.microbit.org/#pub:90418-17495-16581-63753
-frustration-finished: https://makecode.microbit.org/#pub:71088-38400-20107-39742
-fortune-finished: https://makecode.microbit.org/#pub:18828-96734-17356-00995
-clock-finished: https://makecode.microbit.org/#pub:55342-38825-28229-57221
-rate-finished: https://makecode.microbit.org/#pub:57756-45098-79806-84952
-reaction-finished: https://makecode.microbit.org/#pub:50800-81674-84873-32898
+pxt-new: https://makecode.microbit.org/v0
+makecode-new: https://makecode.microbit.org/v0
+badge-finished: https://makecode.microbit.org/v0/#pub:90418-17495-16581-63753
+frustration-finished: https://makecode.microbit.org/v0/#pub:71088-38400-20107-39742
+fortune-finished: https://makecode.microbit.org/v0/#pub:18828-96734-17356-00995
+clock-finished: https://makecode.microbit.org/v0/#pub:55342-38825-28229-57221
+rate-finished: https://makecode.microbit.org/v0/#pub:57756-45098-79806-84952
+reaction-finished: https://makecode.microbit.org/v0/#pub:50800-81674-84873-32898
 
 # General project links
 colours: https://trinket.io/docs/colors

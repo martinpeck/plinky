@@ -526,7 +526,7 @@ toys-certificate: https://s3-eu-west-1.amazonaws.com/downloads.codeclub.org.uk/T
 dbs-waiver: https://docs.google.com/a/codeclub.org.uk/forms/d/e/1FAIpQLSdlG8hNUVxjLSl15JjTClI7_S5OsluDUtDAk9bGQOtNYqZ9Qg/viewform
 international: https://www.codeclubworld.org/
 volunteer-role: http://downloads.codeclub.org.uk/Volunteer+Role.pdf 
-register: https://www.codeclub.org.uk/start-a-club
+register: https://my.raspberrypi.org/signup?brand=codeclub&returnTo=https://codeclub.org/auth/rpi?returnTo=
 
 terms: https://www.codeclub.org.uk/terms-and-conditions 
 safeguarding: https://www.codeclub.org.uk/working-safely-with-children
@@ -562,3 +562,4 @@ teacherregistration: https://www.codeclubworld.org/start-a-club/teachers/
 book: https://store.rpipress.cc/products/code-club-book-of-scratch-volume-1
 training: https://www.futurelearn.com/courses/code-club
 growthleaders: https://www.codeclubworld.org/get-involved/growth-leaders/
+getinvolved: https://codeclub.org/en/get-involved

@@ -6,7 +6,7 @@ class Shortcuts():
   def __init__(self, filename):
     logging.warning("Loading shortcuts file '%s'" % filename)
     with open(filename) as stream:
-      shortcuts = yaml.load(stream)
+      shortcuts = yaml.load(stream, Loader=yaml.SafeLoader)
     self.shortcuts = {shorturl.lower(): url for shorturl, url in shortcuts.items()}
 
   def lookup_shorturl(self, shorturl):

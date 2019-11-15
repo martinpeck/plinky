@@ -18,19 +18,21 @@ The yaml file containing your shorturls needs to be set up. If you don't want to
 For deployment, you'll want to set these environment variables on the host machine.
 
 ## Running Locally
-I use `foreman` to run my webserver. If you want to see debug message then do this...
+I run this service in Heroku, via the Procfile, so the easiest way to run it locally (and to have it run as it does in production) is to install the Heroku CLI and
+and use the following command line:
 
-`foreman run python plinky.py`
+``` bash
+heroku local
+```
 
-... as this will load the environment.
+The Heroku CLI will automatically spot, and use, your .env file.
 
-To run it as Heroku would, run with the following command...
-
-`foreman start`
+Alternatively, simply use `python plinky.py` to start the process.
 
 ## Shorturls in Yaml - The Rules
+
 - Always have a default value. This is the url that is used when a given shorturl can't be found.
-- Last shorturl wins. If you have several with the same value they last one will be used
+- The last shorturl wins. If you have several with the same value they last one will be used.
 
 ## TODO
 

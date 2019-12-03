@@ -1,0 +1,6 @@
+# Redirect codeclubprojects.org/<locale>/<project-type>/<project-name> to projects.raspberrypi.org/<locale>/<project-name>
+default: https://projects.raspberrypi.org/en/codeclub
+
+# en-GB
+en-GB/scratch/rock-band: https://projects.raspberrypi.org/en/projects/rock-band
+en-GB/scratch/chatbot: https://projects.raspberrypi.org/en/projects/chatbot

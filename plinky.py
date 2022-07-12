@@ -3,6 +3,9 @@ import logging
 import os
 from shortcuts import Shortcuts
 from tracking import TrackingHelper
+from dotenv import load_dotenv
+
+load_dotenv()
 
 app = Flask(__name__)
 
